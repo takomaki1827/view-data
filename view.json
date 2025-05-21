@@ -1,5 +1,5 @@
 {
-  "view": 45,
+  "view": 46,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -494,5 +494,16 @@
     "city": "Semarang",
     "latitude": -7.0051453,
     "longitude": 110.4381254
+  },
+  "2400:9800:585:396f:1:0:f4ff:6a6": {
+    "date": "21/05/2025",
+    "time": "21:48:50",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
