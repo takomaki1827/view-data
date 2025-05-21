@@ -1,5 +1,5 @@
 {
-  "view": 58,
+  "view": 59,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -637,5 +637,16 @@
     "city": "Jambi",
     "latitude": -1.6101229,
     "longitude": 103.6131203
+  },
+  "34.248.137.227": {
+    "date": "21/05/2025",
+    "time": "23:16:31",
+    "country": "Ireland",
+    "country_code": "IE",
+    "emoji": "🇮🇪",
+    "region": "Leinster",
+    "city": "Dublin",
+    "latitude": 53.3165322,
+    "longitude": -6.3425318
   }
 }
