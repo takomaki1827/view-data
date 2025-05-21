@@ -1,5 +1,5 @@
 {
-  "view": 7,
+  "view": 8,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -76,5 +76,16 @@
     "city": "Los Angeles",
     "latitude": 34.0522342,
     "longitude": -118.2436849
+  },
+  "117.103.171.4": {
+    "date": "21/05/2025",
+    "time": "20:36:17",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Yogyakarta",
+    "latitude": -7.7955798,
+    "longitude": 110.3694896
   }
 }
