@@ -1,5 +1,5 @@
 {
-  "view": 52,
+  "view": 53,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -571,5 +571,16 @@
     "city": "Percut Sei Tuan",
     "latitude": 3.6396672,
     "longitude": 98.770147
+  },
+  "103.211.107.242": {
+    "date": "21/05/2025",
+    "time": "22:45:01",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Metro",
+    "latitude": -5.1178394,
+    "longitude": 105.3072646
   }
 }
