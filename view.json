@@ -1,5 +1,5 @@
 {
-  "view": 62,
+  "view": 63,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -681,5 +681,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "154.210.103.139": {
+    "date": "22/05/2025",
+    "time": "00:35:04",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "San Francisco",
+    "latitude": 37.718128,
+    "longitude": -122.4343849
   }
 }
