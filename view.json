@@ -1,5 +1,5 @@
 {
-  "view": 16,
+  "view": 17,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -175,5 +175,16 @@
     "city": "Samarinda",
     "latitude": -0.4948232,
     "longitude": 117.1436154
+  },
+  "103.19.79.212": {
+    "date": "21/05/2025",
+    "time": "21:04:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Laren",
+    "latitude": -6.9774345,
+    "longitude": 112.2951114
   }
 }
