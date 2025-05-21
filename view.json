@@ -1,5 +1,5 @@
 {
-  "view": 64,
+  "view": 65,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -703,5 +703,16 @@
     "city": "Kedungwuni",
     "latitude": -6.9631569,
     "longitude": 109.6579791
+  },
+  "182.3.72.45": {
+    "date": "22/05/2025",
+    "time": "00:54:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Jambi",
+    "latitude": -1.6101229,
+    "longitude": 103.6131203
   }
 }
