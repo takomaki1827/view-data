@@ -1,5 +1,5 @@
 {
-  "view": 25,
+  "view": 26,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -274,5 +274,16 @@
     "city": "Semarang",
     "latitude": -7.0051453,
     "longitude": 110.4381254
+  },
+  "205.169.39.4": {
+    "date": "21/05/2025",
+    "time": "21:08:43",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Texas",
+    "city": "Dallas",
+    "latitude": 32.7766642,
+    "longitude": -96.7969879
   }
 }
