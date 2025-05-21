@@ -1,5 +1,5 @@
 {
-  "view": 34,
+  "view": 35,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -373,5 +373,16 @@
     "city": "Mantang Lama",
     "latitude": 0.782408,
     "longitude": 104.548244
+  },
+  "103.140.188.149": {
+    "date": "21/05/2025",
+    "time": "21:13:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kedaton",
+    "latitude": -5.3718525,
+    "longitude": 105.2604409
   }
 }
