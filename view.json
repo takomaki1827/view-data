@@ -1,5 +1,5 @@
 {
-  "view": 35,
+  "view": 36,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -384,5 +384,16 @@
     "city": "Kedaton",
     "latitude": -5.3718525,
     "longitude": 105.2604409
+  },
+  "114.79.2.186": {
+    "date": "21/05/2025",
+    "time": "21:17:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
