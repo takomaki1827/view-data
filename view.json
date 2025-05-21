@@ -1,5 +1,5 @@
 {
-  "view": 27,
+  "view": 28,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -296,5 +296,16 @@
     "city": "Jalan Pulau Pelangi",
     "latitude": -6.1555584,
     "longitude": 106.8928501
+  },
+  "140.213.45.76": {
+    "date": "21/05/2025",
+    "time": "21:09:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
