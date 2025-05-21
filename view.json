@@ -1,5 +1,5 @@
 {
-  "view": 50,
+  "view": 51,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -549,5 +549,16 @@
     "city": "Palangkaraya",
     "latitude": -2.2161048,
     "longitude": 113.913977
+  },
+  "36.80.113.175": {
+    "date": "21/05/2025",
+    "time": "22:14:38",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Pameungpeuk",
+    "latitude": -7.0191962,
+    "longitude": 107.5889804
   }
 }
