@@ -1,5 +1,5 @@
 {
-  "view": 47,
+  "view": 48,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -516,5 +516,16 @@
     "city": "Ashburn",
     "latitude": 39.0437567,
     "longitude": -77.4874416
+  },
+  "2001:448a:5020:c86c:c485:d79a:ca95:aed2": {
+    "date": "21/05/2025",
+    "time": "21:49:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Surabaya",
+    "latitude": -7.2574719,
+    "longitude": 112.7520883
   }
 }
