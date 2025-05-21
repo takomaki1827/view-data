@@ -1,5 +1,5 @@
 {
-  "view": 38,
+  "view": 39,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -417,5 +417,16 @@
     "city": "Cibeber",
     "latitude": -6.8982184,
     "longitude": 107.5179721
+  },
+  "86.23.98.46": {
+    "date": "21/05/2025",
+    "time": "21:28:36",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "emoji": "🇬🇧",
+    "region": "England",
+    "city": "Stoke-on-Trent",
+    "latitude": 52.9919179,
+    "longitude": -2.1312225
   }
 }
