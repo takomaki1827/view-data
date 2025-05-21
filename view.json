@@ -1,5 +1,5 @@
 {
-  "view": 63,
+  "view": 64,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -692,5 +692,16 @@
     "city": "San Francisco",
     "latitude": 37.718128,
     "longitude": -122.4343849
+  },
+  "103.75.85.116": {
+    "date": "22/05/2025",
+    "time": "00:39:10",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Kedungwuni",
+    "latitude": -6.9631569,
+    "longitude": 109.6579791
   }
 }
