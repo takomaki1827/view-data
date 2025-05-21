@@ -1,5 +1,5 @@
 {
-  "view": 59,
+  "view": 60,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -648,5 +648,16 @@
     "city": "Dublin",
     "latitude": 53.3165322,
     "longitude": -6.3425318
+  },
+  "77.246.55.235": {
+    "date": "21/05/2025",
+    "time": "23:41:31",
+    "country": "Zimbabwe",
+    "country_code": "ZW",
+    "emoji": "🇿🇼",
+    "region": "Harare",
+    "city": "Harare",
+    "latitude": -17.8251657,
+    "longitude": 31.03351
   }
 }
