@@ -1,5 +1,5 @@
 {
-  "view": 18,
+  "view": 19,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -197,5 +197,16 @@
     "city": "Banyuwangi",
     "latitude": -8.2192335,
     "longitude": 114.3692267
+  },
+  "114.10.83.251": {
+    "date": "21/05/2025",
+    "time": "21:05:06",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Pematang Siantar City",
+    "latitude": 2.970042,
+    "longitude": 99.0681668
   }
 }
