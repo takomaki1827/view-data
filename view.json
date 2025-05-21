@@ -1,5 +1,5 @@
 {
-  "view": 19,
+  "view": 20,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -208,5 +208,16 @@
     "city": "Pematang Siantar City",
     "latitude": 2.970042,
     "longitude": 99.0681668
+  },
+  "140.213.7.105": {
+    "date": "21/05/2025",
+    "time": "21:05:52",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
