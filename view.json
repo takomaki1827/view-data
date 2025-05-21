@@ -1,5 +1,5 @@
 {
-  "view": 56,
+  "view": 57,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -615,5 +615,16 @@
     "city": "Orodo",
     "latitude": 5.6165948,
     "longitude": 7.0364022
+  },
+  "66.102.8.70": {
+    "date": "21/05/2025",
+    "time": "22:57:25",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
