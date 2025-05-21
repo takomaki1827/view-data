@@ -1,5 +1,5 @@
 {
-  "view": 49,
+  "view": 50,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -538,5 +538,16 @@
     "city": "Kedungdoro",
     "latitude": -7.2635671,
     "longitude": 112.7345789
+  },
+  "36.75.65.234": {
+    "date": "21/05/2025",
+    "time": "22:14:19",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Kalimantan",
+    "city": "Palangkaraya",
+    "latitude": -2.2161048,
+    "longitude": 113.913977
   }
 }
