@@ -4,5 +4,16 @@
   },
   "180.245.28.74, 52.76.97.9": {
     "view": 1
+  },
+  "180.245.28.13, 52.220.42.234": {
+    "view": 1,
+    "ip": "Unknown",
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "emoji": "",
+    "region": "Unknown",
+    "city": "Unknown",
+    "latitude": 0,
+    "longitude": 0
   }
 }
