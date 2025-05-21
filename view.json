@@ -1,5 +1,5 @@
 {
-  "view": 15,
+  "view": 16,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -164,5 +164,16 @@
     "city": "Dallas",
     "latitude": 32.7766642,
     "longitude": -96.7969879
+  },
+  "2400:9800:bc4:3e4f:80e2:13ff:fe14:f259": {
+    "date": "21/05/2025",
+    "time": "21:04:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Kalimantan",
+    "city": "Samarinda",
+    "latitude": -0.4948232,
+    "longitude": 117.1436154
   }
 }
