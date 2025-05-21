@@ -1,5 +1,5 @@
 {
-  "view": 41,
+  "view": 42,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -450,5 +450,16 @@
     "city": "Pasuruan",
     "latitude": -5.7464759,
     "longitude": 105.6772368
+  },
+  "140.213.183.167": {
+    "date": "21/05/2025",
+    "time": "21:37:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Kalimantan",
+    "city": "Samarinda",
+    "latitude": -0.4948232,
+    "longitude": 117.1436154
   }
 }
