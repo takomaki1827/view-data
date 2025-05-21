@@ -1,5 +1,5 @@
 {
-  "view": 29,
+  "view": 30,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -318,5 +318,16 @@
     "city": "Kresek",
     "latitude": -6.143977,
     "longitude": 106.3993658
+  },
+  "114.10.152.230": {
+    "date": "21/05/2025",
+    "time": "21:09:52",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Kutoarjo",
+    "latitude": -7.7206727,
+    "longitude": 109.9080051
   }
 }
