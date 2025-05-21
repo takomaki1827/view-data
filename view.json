@@ -1,5 +1,5 @@
 {
-  "view": 57,
+  "view": 58,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -626,5 +626,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "182.3.68.225": {
+    "date": "21/05/2025",
+    "time": "23:05:23",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Jambi",
+    "latitude": -1.6101229,
+    "longitude": 103.6131203
   }
 }
