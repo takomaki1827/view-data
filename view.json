@@ -1,5 +1,5 @@
 {
-  "view": 33,
+  "view": 34,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -362,5 +362,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "103.90.66.18": {
+    "date": "21/05/2025",
+    "time": "21:12:13",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau Islands",
+    "city": "Mantang Lama",
+    "latitude": 0.782408,
+    "longitude": 104.548244
   }
 }
