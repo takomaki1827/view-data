@@ -1,5 +1,5 @@
 {
-  "view": 39,
+  "view": 40,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -428,5 +428,16 @@
     "city": "Stoke-on-Trent",
     "latitude": 52.9919179,
     "longitude": -2.1312225
+  },
+  "114.10.100.219": {
+    "date": "21/05/2025",
+    "time": "21:33:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kedaton",
+    "latitude": -5.3718525,
+    "longitude": 105.2604409
   }
 }
