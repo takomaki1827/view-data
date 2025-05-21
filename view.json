@@ -1,5 +1,5 @@
 {
-  "view": 67,
+  "view": 68,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -736,5 +736,16 @@
     "city": "Cimahi",
     "latitude": -6.8840816,
     "longitude": 107.5413039
+  },
+  "100.26.196.19": {
+    "date": "22/05/2025",
+    "time": "05:20:59",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
   }
 }
