@@ -1,5 +1,5 @@
 {
-  "view": 71,
+  "view": 72,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -780,5 +780,16 @@
     "city": "Magetan",
     "latitude": -7.6493413,
     "longitude": 111.3381593
+  },
+  "114.125.110.69": {
+    "date": "22/05/2025",
+    "time": "05:46:03",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
