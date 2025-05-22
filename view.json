@@ -1,5 +1,5 @@
 {
-  "view": 75,
+  "view": 76,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -824,5 +824,16 @@
     "city": "Manismata",
     "latitude": -2.466667,
     "longitude": 111.033333
+  },
+  "140.213.33.177": {
+    "date": "22/05/2025",
+    "time": "07:25:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
