@@ -1,5 +1,5 @@
 {
-  "view": 80,
+  "view": 81,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -879,5 +879,16 @@
     "city": "Bogor",
     "latitude": -6.5971469,
     "longitude": 106.8060388
+  },
+  "36.73.33.166": {
+    "date": "22/05/2025",
+    "time": "13:56:18",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Purbalingga Regency",
+    "latitude": -7.3058578,
+    "longitude": 109.4259114
   }
 }
