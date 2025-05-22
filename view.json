@@ -1,5 +1,5 @@
 {
-  "view": 112,
+  "view": 113,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1231,5 +1231,16 @@
     "city": "Rembang",
     "latitude": -6.7065551,
     "longitude": 111.3372855
+  },
+  "2400:9800:1f7:3c56:4cc7:b6ff:fe7a:c35a": {
+    "date": "22/05/2025",
+    "time": "22:12:10",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
