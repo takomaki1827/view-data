@@ -1,5 +1,5 @@
 {
-  "view": 103,
+  "view": 104,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1132,5 +1132,16 @@
     "city": "Pasar Muara Bungo",
     "latitude": -1.4916297,
     "longitude": 102.1346874
+  },
+  "114.10.4.7": {
+    "date": "22/05/2025",
+    "time": "21:34:43",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Kudus",
+    "latitude": -6.8072603,
+    "longitude": 110.8413706
   }
 }
