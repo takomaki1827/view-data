@@ -1,5 +1,5 @@
 {
-  "view": 86,
+  "view": 87,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -945,5 +945,16 @@
     "city": "Cileunyi",
     "latitude": -6.9316588,
     "longitude": 107.7419708
+  },
+  "2400:9800:584:a0db:1:0:f884:8be7": {
+    "date": "22/05/2025",
+    "time": "14:43:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Onan Ganjang",
+    "latitude": 2.1401409,
+    "longitude": 98.6380598
   }
 }
