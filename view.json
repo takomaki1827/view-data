@@ -1,5 +1,5 @@
 {
-  "view": 120,
+  "view": 121,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1319,5 +1319,16 @@
     "city": "Pamanukan",
     "latitude": -6.2957395,
     "longitude": 107.8228459
+  },
+  "2400:9800:700:4e62:d164:3073:1afc:e4d2": {
+    "date": "23/05/2025",
+    "time": "05:34:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Kediri",
+    "latitude": -7.8480156,
+    "longitude": 112.0178286
   }
 }
