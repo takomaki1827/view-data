@@ -1,5 +1,5 @@
 {
-  "view": 87,
+  "view": 88,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -956,5 +956,16 @@
     "city": "Onan Ganjang",
     "latitude": 2.1401409,
     "longitude": 98.6380598
+  },
+  "182.1.86.166": {
+    "date": "22/05/2025",
+    "time": "14:47:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Karanganyar",
+    "latitude": -7.6070727,
+    "longitude": 110.9866942
   }
 }
