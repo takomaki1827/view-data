@@ -1,5 +1,5 @@
 {
-  "view": 102,
+  "view": 103,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1121,5 +1121,16 @@
     "city": "Surakarta",
     "latitude": -7.5754887,
     "longitude": 110.8243272
+  },
+  "2400:9800:5d0:f620:1:0:f9bd:140": {
+    "date": "22/05/2025",
+    "time": "21:33:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Pasar Muara Bungo",
+    "latitude": -1.4916297,
+    "longitude": 102.1346874
   }
 }
