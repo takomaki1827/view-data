@@ -1,5 +1,5 @@
 {
-  "view": 116,
+  "view": 117,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1268,6 +1268,17 @@
   "2400:9800:111:fc41:1841:deeb:3bd9:7574": {
     "date": "22/05/2025",
     "time": "23:00:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
+  },
+  "103.189.207.140": {
+    "date": "22/05/2025",
+    "time": "23:14:53",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
