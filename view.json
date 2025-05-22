@@ -1,5 +1,5 @@
 {
-  "view": 117,
+  "view": 118,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1286,5 +1286,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "114.10.153.78": {
+    "date": "22/05/2025",
+    "time": "23:51:36",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Sleman",
+    "latitude": -7.716165,
+    "longitude": 110.335403
   }
 }
