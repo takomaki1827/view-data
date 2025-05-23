@@ -1,5 +1,5 @@
 {
-  "view": 163,
+  "view": 164,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1792,5 +1792,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "2401:e120:2029:d1ed:3812:6093:7048:8e67": {
+    "date": "23/05/2025",
+    "time": "21:17:27",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "emoji": "🇲🇾",
+    "region": "Federal Territory of Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "latitude": 3.139003,
+    "longitude": 101.686855
   }
 }
