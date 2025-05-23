@@ -1,5 +1,5 @@
 {
-  "view": 164,
+  "view": 165,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1803,5 +1803,16 @@
     "city": "Kuala Lumpur",
     "latitude": 3.139003,
     "longitude": 101.686855
+  },
+  "182.5.133.243": {
+    "date": "23/05/2025",
+    "time": "21:33:40",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Margamukti",
+    "latitude": -7.1911536,
+    "longitude": 107.6156133
   }
 }
