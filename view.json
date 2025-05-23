@@ -1,5 +1,5 @@
 {
-  "view": 136,
+  "view": 137,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1495,5 +1495,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "103.131.18.112": {
+    "date": "23/05/2025",
+    "time": "16:43:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Wonosobo Regency",
+    "latitude": -7.3632094,
+    "longitude": 109.9001796
   }
 }
