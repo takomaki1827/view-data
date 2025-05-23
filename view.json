@@ -1,5 +1,5 @@
 {
-  "view": 155,
+  "view": 156,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1704,5 +1704,16 @@
     "city": "Medan Sunggal",
     "latitude": 3.5759525,
     "longitude": 98.6215649
+  },
+  "114.10.153.234": {
+    "date": "23/05/2025",
+    "time": "18:49:56",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Surakarta",
+    "latitude": -7.5754887,
+    "longitude": 110.8243272
   }
 }
