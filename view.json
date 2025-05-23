@@ -1,5 +1,5 @@
 {
-  "view": 169,
+  "view": 170,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1858,5 +1858,16 @@
     "city": "Sukabumi",
     "latitude": -6.9277361,
     "longitude": 106.9299579
+  },
+  "105.113.12.77": {
+    "date": "24/05/2025",
+    "time": "06:15:38",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "emoji": "🇳🇬",
+    "region": "Rivers",
+    "city": "Port Harcourt",
+    "latitude": 4.815554,
+    "longitude": 7.0498442
   }
 }
