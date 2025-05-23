@@ -1,5 +1,5 @@
 {
-  "view": 153,
+  "view": 154,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1682,5 +1682,16 @@
     "city": "Sempol",
     "latitude": -7.7963392,
     "longitude": 114.0031078
+  },
+  "114.125.200.156": {
+    "date": "23/05/2025",
+    "time": "18:17:43",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sulawesi",
+    "city": "Makassar",
+    "latitude": -5.1476651,
+    "longitude": 119.4327314
   }
 }
