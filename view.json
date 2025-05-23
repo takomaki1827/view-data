@@ -1,5 +1,5 @@
 {
-  "view": 145,
+  "view": 146,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1594,5 +1594,16 @@
     "city": "Jember",
     "latitude": -8.1733118,
     "longitude": 113.7009312
+  },
+  "158.69.67.196": {
+    "date": "23/05/2025",
+    "time": "17:01:06",
+    "country": "Canada",
+    "country_code": "CA",
+    "emoji": "🇨🇦",
+    "region": "Québec",
+    "city": "Montreal",
+    "latitude": 45.5016889,
+    "longitude": -73.567256
   }
 }
