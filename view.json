@@ -1,5 +1,5 @@
 {
-  "view": 157,
+  "view": 158,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1726,5 +1726,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "114.10.15.232": {
+    "date": "23/05/2025",
+    "time": "19:20:20",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cirebon",
+    "latitude": -6.7320229,
+    "longitude": 108.5523164
   }
 }
