@@ -1,5 +1,5 @@
 {
-  "view": 146,
+  "view": 147,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1605,5 +1605,16 @@
     "city": "Montreal",
     "latitude": 45.5016889,
     "longitude": -73.567256
+  },
+  "2404:c0:3740::9bf6:c83b": {
+    "date": "23/05/2025",
+    "time": "17:06:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Surabaya",
+    "latitude": -7.2574719,
+    "longitude": 112.7520883
   }
 }
