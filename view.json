@@ -1,5 +1,5 @@
 {
-  "view": 171,
+  "view": 172,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1880,5 +1880,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "197.210.53.102": {
+    "date": "24/05/2025",
+    "time": "06:18:01",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "emoji": "🇳🇬",
+    "region": "Federal Capital Territory",
+    "city": "Bwari",
+    "latitude": 9.2855902,
+    "longitude": 7.3786689
   }
 }
