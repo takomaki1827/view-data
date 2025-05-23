@@ -1,5 +1,5 @@
 {
-  "view": 154,
+  "view": 155,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1693,5 +1693,16 @@
     "city": "Makassar",
     "latitude": -5.1476651,
     "longitude": 119.4327314
+  },
+  "2400:9800:470:d36c:1:0:395d:be8b": {
+    "date": "23/05/2025",
+    "time": "18:29:15",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan Sunggal",
+    "latitude": 3.5759525,
+    "longitude": 98.6215649
   }
 }
