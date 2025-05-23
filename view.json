@@ -1,5 +1,5 @@
 {
-  "view": 160,
+  "view": 161,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1759,5 +1759,16 @@
     "city": "Sungguminasa",
     "latitude": -5.2065622,
     "longitude": 119.451303
+  },
+  "103.146.185.64": {
+    "date": "23/05/2025",
+    "time": "19:52:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Selogiri",
+    "latitude": -7.7797812,
+    "longitude": 110.8910556
   }
 }
