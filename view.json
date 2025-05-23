@@ -1,5 +1,5 @@
 {
-  "view": 144,
+  "view": 145,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1576,6 +1576,17 @@
   "103.165.156.35": {
     "date": "23/05/2025",
     "time": "16:58:01",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Jember",
+    "latitude": -8.1733118,
+    "longitude": 113.7009312
+  },
+  "103.165.156.34": {
+    "date": "23/05/2025",
+    "time": "16:59:21",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
