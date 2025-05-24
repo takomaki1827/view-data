@@ -1,5 +1,5 @@
 {
-  "view": 189,
+  "view": 190,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2078,5 +2078,16 @@
     "city": "Ibadan",
     "latitude": 7.3775355,
     "longitude": 3.9470396
+  },
+  "182.5.137.208": {
+    "date": "24/05/2025",
+    "time": "16:46:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "North Sumedang",
+    "latitude": -6.8293742,
+    "longitude": 107.9116474
   }
 }
