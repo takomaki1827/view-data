@@ -1,5 +1,5 @@
 {
-  "view": 177,
+  "view": 178,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1946,5 +1946,16 @@
     "city": "Sridadi",
     "latitude": -6.731974,
     "longitude": 111.3888358
+  },
+  "114.10.103.253": {
+    "date": "24/05/2025",
+    "time": "09:24:33",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Bandar Lampung",
+    "latitude": -5.3971396,
+    "longitude": 105.2667887
   }
 }
