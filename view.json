@@ -1,5 +1,5 @@
 {
-  "view": 184,
+  "view": 185,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2023,5 +2023,16 @@
     "city": "Ibadan",
     "latitude": 7.3775355,
     "longitude": 3.9470396
+  },
+  "2001:448a:400c:185c:dcca:c05a:8006:b75a": {
+    "date": "24/05/2025",
+    "time": "13:10:43",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
