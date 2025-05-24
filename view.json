@@ -1,5 +1,5 @@
 {
-  "view": 172,
+  "view": 173,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1891,5 +1891,16 @@
     "city": "Bwari",
     "latitude": 9.2855902,
     "longitude": 7.3786689
+  },
+  "2001:448a:11b0:57d:11bf:3841:3ed2:3ba8": {
+    "date": "24/05/2025",
+    "time": "07:32:13",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Sumatra",
+    "city": "Padang",
+    "latitude": -0.9470832,
+    "longitude": 100.417181
   }
 }
