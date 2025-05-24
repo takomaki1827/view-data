@@ -1,5 +1,5 @@
 {
-  "view": 186,
+  "view": 187,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2045,5 +2045,16 @@
     "city": "Hyderabad",
     "latitude": 17.385044,
     "longitude": 78.486671
+  },
+  "102.89.69.233": {
+    "date": "24/05/2025",
+    "time": "14:29:14",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "emoji": "🇳🇬",
+    "region": "Ondo",
+    "city": "Akure",
+    "latitude": 7.2571325,
+    "longitude": 5.2057909
   }
 }
