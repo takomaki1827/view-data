@@ -1,5 +1,5 @@
 {
-  "view": 187,
+  "view": 188,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2056,5 +2056,16 @@
     "city": "Akure",
     "latitude": 7.2571325,
     "longitude": 5.2057909
+  },
+  "114.4.83.174": {
+    "date": "24/05/2025",
+    "time": "16:34:16",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
