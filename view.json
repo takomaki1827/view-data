@@ -1,5 +1,5 @@
 {
-  "view": 190,
+  "view": 191,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2089,5 +2089,16 @@
     "city": "North Sumedang",
     "latitude": -6.8293742,
     "longitude": 107.9116474
+  },
+  "114.79.16.216": {
+    "date": "24/05/2025",
+    "time": "16:52:43",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Mojokerto",
+    "latitude": -7.4704747,
+    "longitude": 112.4401329
   }
 }
