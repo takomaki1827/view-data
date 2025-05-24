@@ -1,5 +1,5 @@
 {
-  "view": 181,
+  "view": 182,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1990,5 +1990,16 @@
     "city": "North Sumedang",
     "latitude": -6.8293742,
     "longitude": 107.9116474
+  },
+  "103.189.123.6": {
+    "date": "24/05/2025",
+    "time": "13:00:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Teluknaga",
+    "latitude": -6.0488816,
+    "longitude": 106.6645007
   }
 }
