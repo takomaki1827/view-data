@@ -1,5 +1,5 @@
 {
-  "view": 183,
+  "view": 184,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2012,5 +2012,16 @@
     "city": "Surabaya",
     "latitude": -7.2574719,
     "longitude": 112.7520883
+  },
+  "102.89.82.126": {
+    "date": "24/05/2025",
+    "time": "13:08:39",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "emoji": "🇳🇬",
+    "region": "Oyo",
+    "city": "Ibadan",
+    "latitude": 7.3775355,
+    "longitude": 3.9470396
   }
 }
