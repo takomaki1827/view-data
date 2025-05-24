@@ -1,5 +1,5 @@
 {
-  "view": 179,
+  "view": 180,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -1968,5 +1968,16 @@
     "city": "Wates",
     "latitude": -7.893728,
     "longitude": 110.1434668
+  },
+  "114.5.211.25": {
+    "date": "24/05/2025",
+    "time": "11:03:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Sukabumi",
+    "latitude": -6.9277361,
+    "longitude": 106.9299579
   }
 }
