@@ -1,5 +1,5 @@
 {
-  "view": 198,
+  "view": 199,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2170,6 +2170,17 @@
   "205.169.39.28": {
     "date": "25/05/2025",
     "time": "22:05:53",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Texas",
+    "city": "Dallas",
+    "latitude": 32.7766642,
+    "longitude": -96.7969879
+  },
+  "205.169.39.171": {
+    "date": "25/05/2025",
+    "time": "22:05:59",
     "country": "United States",
     "country_code": "US",
     "emoji": "🇺🇸",
