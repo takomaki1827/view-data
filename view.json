@@ -1,5 +1,5 @@
 {
-  "view": 196,
+  "view": 197,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2155,5 +2155,16 @@
     "city": "Medan Sunggal",
     "latitude": 3.5759525,
     "longitude": 98.6215649
+  },
+  "104.197.69.115": {
+    "date": "25/05/2025",
+    "time": "22:05:33",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Iowa",
+    "city": "Council Bluffs",
+    "latitude": 41.2619444,
+    "longitude": -95.8608333
   }
 }
