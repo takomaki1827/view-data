@@ -1,5 +1,5 @@
 {
-  "view": 193,
+  "view": 194,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2122,5 +2122,16 @@
     "city": "Cicurug",
     "latitude": -6.7676688,
     "longitude": 106.7883416
+  },
+  "140.213.15.149": {
+    "date": "25/05/2025",
+    "time": "10:22:01",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Kresek",
+    "latitude": -6.143977,
+    "longitude": 106.3993658
   }
 }
