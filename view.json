@@ -1,5 +1,5 @@
 {
-  "view": 204,
+  "view": 205,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2243,5 +2243,16 @@
     "city": "Malang",
     "latitude": -7.9666204,
     "longitude": 112.6326321
+  },
+  "112.215.242.239": {
+    "date": "26/05/2025",
+    "time": "13:24:04",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Wates",
+    "latitude": -7.893728,
+    "longitude": 110.1434668
   }
 }
