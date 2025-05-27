@@ -1,5 +1,5 @@
 {
-  "view": 207,
+  "view": 208,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2269,6 +2269,17 @@
   "112.215.154.231": {
     "date": "27/05/2025",
     "time": "13:53:20",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Magetan",
+    "latitude": -7.6493413,
+    "longitude": 111.3381593
+  },
+  "112.215.154.233": {
+    "date": "27/05/2025",
+    "time": "17:05:45",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
