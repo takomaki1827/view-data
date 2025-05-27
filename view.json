@@ -1,5 +1,5 @@
 {
-  "view": 212,
+  "view": 213,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2331,5 +2331,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "139.59.108.143": {
+    "date": "27/05/2025",
+    "time": "21:02:41",
+    "country": "Singapore",
+    "country_code": "SG",
+    "emoji": "🇸🇬",
+    "region": "Southeast",
+    "city": "Singapore",
+    "latitude": 1.3553794,
+    "longitude": 103.8677444
   }
 }
