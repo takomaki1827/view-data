@@ -1,5 +1,5 @@
 {
-  "view": 229,
+  "view": 230,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2518,5 +2518,16 @@
     "city": "Komplek Bandung City View 1",
     "latitude": -6.8984856,
     "longitude": 107.6750792
+  },
+  "114.10.114.7": {
+    "date": "28/05/2025",
+    "time": "00:50:49",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
