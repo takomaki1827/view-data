@@ -1,5 +1,5 @@
 {
-  "view": 217,
+  "view": 218,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2386,5 +2386,16 @@
     "city": "Ubud",
     "latitude": -8.5068536,
     "longitude": 115.2624778
+  },
+  "140.213.154.236": {
+    "date": "27/05/2025",
+    "time": "21:17:55",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Sulawesi Tenggara",
+    "city": "Kendari",
+    "latitude": -3.9984597,
+    "longitude": 122.5129742
   }
 }
