@@ -1,5 +1,5 @@
 {
-  "view": 218,
+  "view": 219,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2397,5 +2397,16 @@
     "city": "Kendari",
     "latitude": -3.9984597,
     "longitude": 122.5129742
+  },
+  "114.10.102.13": {
+    "date": "27/05/2025",
+    "time": "21:18:56",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kedaton",
+    "latitude": -5.3718525,
+    "longitude": 105.2604409
   }
 }
