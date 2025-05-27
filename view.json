@@ -1,5 +1,5 @@
 {
-  "view": 227,
+  "view": 228,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2496,5 +2496,16 @@
     "city": "Amuntai",
     "latitude": -2.416604,
     "longitude": 115.239098
+  },
+  "114.10.4.105": {
+    "date": "27/05/2025",
+    "time": "22:37:44",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Kudus",
+    "latitude": -6.8072603,
+    "longitude": 110.8413706
   }
 }
