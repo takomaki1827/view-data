@@ -1,5 +1,5 @@
 {
-  "view": 213,
+  "view": 214,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2342,5 +2342,16 @@
     "city": "Singapore",
     "latitude": 1.3553794,
     "longitude": 103.8677444
+  },
+  "182.2.71.229": {
+    "date": "27/05/2025",
+    "time": "21:03:39",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Klaten",
+    "latitude": -7.739967,
+    "longitude": 110.6645683
   }
 }
