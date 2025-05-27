@@ -1,5 +1,5 @@
 {
-  "view": 222,
+  "view": 223,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2441,5 +2441,16 @@
     "city": "Gubengairlangga",
     "latitude": -7.28232,
     "longitude": 112.71
+  },
+  "114.141.49.53": {
+    "date": "27/05/2025",
+    "time": "21:54:34",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
