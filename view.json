@@ -1,5 +1,5 @@
 {
-  "view": 209,
+  "view": 210,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2298,5 +2298,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "2a03:2880:13ff:5::": {
+    "date": "27/05/2025",
+    "time": "18:41:25",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Washington",
+    "city": "Redmond",
+    "latitude": 47.6739881,
+    "longitude": -122.121512
   }
 }
