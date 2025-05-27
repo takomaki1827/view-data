@@ -1,5 +1,5 @@
 {
-  "view": 232,
+  "view": 233,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2551,5 +2551,16 @@
     "city": "Garut",
     "latitude": -7.227906,
     "longitude": 107.908699
+  },
+  "149.113.67.245": {
+    "date": "28/05/2025",
+    "time": "06:30:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
