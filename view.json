@@ -1,5 +1,5 @@
 {
-  "view": 226,
+  "view": 227,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2485,5 +2485,16 @@
     "city": "Manado",
     "latitude": 1.4748305,
     "longitude": 124.8420794
+  },
+  "140.213.182.185": {
+    "date": "27/05/2025",
+    "time": "22:37:07",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Kalimantan",
+    "city": "Amuntai",
+    "latitude": -2.416604,
+    "longitude": 115.239098
   }
 }
