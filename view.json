@@ -1,5 +1,5 @@
 {
-  "view": 240,
+  "view": 241,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2639,5 +2639,16 @@
     "city": "Uluale",
     "latitude": -3.9164982,
     "longitude": 119.7397084
+  },
+  "140.213.154.199": {
+    "date": "28/05/2025",
+    "time": "13:38:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Sulawesi Tenggara",
+    "city": "Kendari",
+    "latitude": -3.9984597,
+    "longitude": 122.5129742
   }
 }
