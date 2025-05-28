@@ -1,5 +1,5 @@
 {
-  "view": 239,
+  "view": 240,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2628,5 +2628,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "180.249.32.144": {
+    "date": "28/05/2025",
+    "time": "12:38:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sulawesi",
+    "city": "Uluale",
+    "latitude": -3.9164982,
+    "longitude": 119.7397084
   }
 }
