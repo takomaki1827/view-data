@@ -1,5 +1,5 @@
 {
-  "view": 255,
+  "view": 256,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2804,5 +2804,16 @@
     "city": "Medan",
     "latitude": 3.5951956,
     "longitude": 98.6722227
+  },
+  "162.220.232.29": {
+    "date": "29/05/2025",
+    "time": "16:30:55",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "San Jose",
+    "latitude": 37.3382082,
+    "longitude": -121.8863286
   }
 }
