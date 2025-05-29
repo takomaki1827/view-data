@@ -1,5 +1,5 @@
 {
-  "view": 254,
+  "view": 255,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2793,5 +2793,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "112.215.230.113": {
+    "date": "29/05/2025",
+    "time": "15:01:06",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan",
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   }
 }
