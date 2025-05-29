@@ -1,5 +1,5 @@
 {
-  "view": 252,
+  "view": 253,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2771,5 +2771,16 @@
     "city": "Teluknaga",
     "latitude": -6.0488816,
     "longitude": 106.6645007
+  },
+  "2404:c0:1820::12f5:b6fe": {
+    "date": "29/05/2025",
+    "time": "10:26:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan",
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   }
 }
