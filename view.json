@@ -1,5 +1,5 @@
 {
-  "view": 268,
+  "view": 269,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2947,5 +2947,16 @@
     "city": "Bandar Lampung",
     "latitude": -5.3971396,
     "longitude": 105.2667887
+  },
+  "114.79.1.122": {
+    "date": "29/05/2025",
+    "time": "20:38:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Bangka-Belitung Islands",
+    "city": "Pangkal Pinang",
+    "latitude": -2.1316266,
+    "longitude": 106.1169299
   }
 }
