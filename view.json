@@ -1,5 +1,5 @@
 {
-  "view": 267,
+  "view": 268,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2936,5 +2936,16 @@
     "city": "Serang",
     "latitude": -6.1103661,
     "longitude": 106.1639749
+  },
+  "114.10.101.249": {
+    "date": "29/05/2025",
+    "time": "20:36:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Bandar Lampung",
+    "latitude": -5.3971396,
+    "longitude": 105.2667887
   }
 }
