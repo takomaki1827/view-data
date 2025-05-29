@@ -1,5 +1,5 @@
 {
-  "view": 258,
+  "view": 259,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2837,5 +2837,16 @@
     "city": "Jalan Paradise Serpong City",
     "latitude": -6.3513683,
     "longitude": 106.6950334
+  },
+  "114.10.16.0": {
+    "date": "29/05/2025",
+    "time": "17:51:34",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
