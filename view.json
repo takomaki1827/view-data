@@ -1,5 +1,5 @@
 {
-  "view": 269,
+  "view": 270,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2958,5 +2958,16 @@
     "city": "Pangkal Pinang",
     "latitude": -2.1316266,
     "longitude": 106.1169299
+  },
+  "52.87.44.246": {
+    "date": "29/05/2025",
+    "time": "21:29:26",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
   }
 }
