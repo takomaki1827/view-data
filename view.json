@@ -1,5 +1,5 @@
 {
-  "view": 263,
+  "view": 264,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2892,5 +2892,16 @@
     "city": "Amuntai",
     "latitude": -2.416604,
     "longitude": 115.239098
+  },
+  "2400:9800:aa2:362e:8f4a:60de:7c7a:ec86": {
+    "date": "29/05/2025",
+    "time": "18:48:20",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Baran",
+    "latitude": -7.7515605,
+    "longitude": 110.7090035
   }
 }
