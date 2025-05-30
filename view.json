@@ -1,5 +1,5 @@
 {
-  "view": 278,
+  "view": 279,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3057,5 +3057,16 @@
     "city": "Wates",
     "latitude": -7.893728,
     "longitude": 110.1434668
+  },
+  "103.108.31.92": {
+    "date": "30/05/2025",
+    "time": "21:10:40",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Kalimantan",
+    "city": "Puruk Cahu",
+    "latitude": -0.6159396,
+    "longitude": 114.5728675
   }
 }
