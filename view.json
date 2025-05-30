@@ -1,5 +1,5 @@
 {
-  "view": 277,
+  "view": 278,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3046,5 +3046,16 @@
     "city": "Surabaya",
     "latitude": -7.2574719,
     "longitude": 112.7520883
+  },
+  "140.213.58.183": {
+    "date": "30/05/2025",
+    "time": "20:37:19",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Wates",
+    "latitude": -7.893728,
+    "longitude": 110.1434668
   }
 }
