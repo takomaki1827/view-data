@@ -1,5 +1,5 @@
 {
-  "view": 273,
+  "view": 274,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -2995,6 +2995,17 @@
   "2404:c0:3750::a414:acc5": {
     "date": "30/05/2025",
     "time": "10:49:27",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Surabaya",
+    "latitude": -7.2574719,
+    "longitude": 112.7520883
+  },
+  "2404:c0:3650::9890:d69a": {
+    "date": "30/05/2025",
+    "time": "12:50:27",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
