@@ -1,5 +1,5 @@
 {
-  "view": 295,
+  "view": 296,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3244,5 +3244,16 @@
     "city": "Langsa",
     "latitude": 4.4725348,
     "longitude": 97.9756343
+  },
+  "103.217.224.137": {
+    "date": "01/06/2025",
+    "time": "20:28:52",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Semarang",
+    "latitude": -7.0051453,
+    "longitude": 110.4381254
   }
 }
