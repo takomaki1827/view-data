@@ -1,5 +1,5 @@
 {
-  "view": 299,
+  "view": 300,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3288,5 +3288,16 @@
     "city": "Caringin",
     "latitude": -6.9302961,
     "longitude": 107.5719663
+  },
+  "2404:c0:5a30::fca:548": {
+    "date": "01/06/2025",
+    "time": "22:09:54",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Lubuklinggau",
+    "latitude": -3.2995858,
+    "longitude": 102.857236
   }
 }
