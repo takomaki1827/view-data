@@ -1,5 +1,5 @@
 {
-  "view": 302,
+  "view": 303,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3321,5 +3321,16 @@
     "city": "Madiun",
     "latitude": -7.6310587,
     "longitude": 111.5300159
+  },
+  "202.169.232.169": {
+    "date": "02/06/2025",
+    "time": "06:46:02",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Yogyakarta",
+    "latitude": -7.7955798,
+    "longitude": 110.3694896
   }
 }
