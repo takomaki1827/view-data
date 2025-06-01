@@ -1,5 +1,5 @@
 {
-  "view": 304,
+  "view": 305,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3343,5 +3343,16 @@
     "city": "Semarang",
     "latitude": -7.0051453,
     "longitude": 110.4381254
+  },
+  "103.176.183.66": {
+    "date": "02/06/2025",
+    "time": "06:52:05",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Jatiroto",
+    "latitude": -7.882823,
+    "longitude": 111.1078993
   }
 }
