@@ -1,5 +1,5 @@
 {
-  "view": 294,
+  "view": 295,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3233,5 +3233,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "114.5.146.182": {
+    "date": "01/06/2025",
+    "time": "20:28:20",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Aceh",
+    "city": "Langsa",
+    "latitude": 4.4725348,
+    "longitude": 97.9756343
   }
 }
