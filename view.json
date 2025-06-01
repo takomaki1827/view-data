@@ -1,5 +1,5 @@
 {
-  "view": 305,
+  "view": 306,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3354,5 +3354,16 @@
     "city": "Jatiroto",
     "latitude": -7.882823,
     "longitude": 111.1078993
+  },
+  "2404:c0:7150::91c1:eaea": {
+    "date": "02/06/2025",
+    "time": "06:58:25",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Salatiga",
+    "latitude": -7.3305234,
+    "longitude": 110.5084366
   }
 }
