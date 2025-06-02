@@ -1,5 +1,5 @@
 {
-  "view": 324,
+  "view": 325,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3563,5 +3563,16 @@
     "city": "Magetan",
     "latitude": -7.6493413,
     "longitude": 111.3381593
+  },
+  "2402:8100:3904:30d3:f006:a3ff:feb6:ee95": {
+    "date": "02/06/2025",
+    "time": "12:06:09",
+    "country": "India",
+    "country_code": "IN",
+    "emoji": "🇮🇳",
+    "region": "Kerala",
+    "city": "Thiruvananthapuram",
+    "latitude": 8.5241391,
+    "longitude": 76.9366376
   }
 }
