@@ -1,5 +1,5 @@
 {
-  "view": 346,
+  "view": 347,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3805,5 +3805,16 @@
     "city": "Palembang",
     "latitude": -2.9760735,
     "longitude": 104.7754307
+  },
+  "2404:c0:7050::2:9b62:71bb": {
+    "date": "02/06/2025",
+    "time": "18:01:28",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Boyolali",
+    "latitude": -7.52053,
+    "longitude": 110.595023
   }
 }
