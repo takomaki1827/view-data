@@ -1,5 +1,5 @@
 {
-  "view": 335,
+  "view": 336,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3684,5 +3684,16 @@
     "city": "Amuntai",
     "latitude": -2.416604,
     "longitude": 115.239098
+  },
+  "202.67.44.11": {
+    "date": "02/06/2025",
+    "time": "13:47:30",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau",
+    "city": "Jadirejo",
+    "latitude": 0.5135918,
+    "longitude": 101.4445619
   }
 }
