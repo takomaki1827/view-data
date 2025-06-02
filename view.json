@@ -1,5 +1,5 @@
 {
-  "view": 349,
+  "view": 350,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3838,5 +3838,16 @@
     "city": "Salatiga",
     "latitude": -7.3305234,
     "longitude": 110.5084366
+  },
+  "103.18.34.226": {
+    "date": "02/06/2025",
+    "time": "22:05:01",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
