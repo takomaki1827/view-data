@@ -1,5 +1,5 @@
 {
-  "view": 313,
+  "view": 314,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3442,5 +3442,16 @@
     "city": "Ashburn",
     "latitude": 39.0437567,
     "longitude": -77.4874416
+  },
+  "114.122.21.78": {
+    "date": "02/06/2025",
+    "time": "10:59:05",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan Sunggal",
+    "latitude": 3.5759525,
+    "longitude": 98.6215649
   }
 }
