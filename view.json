@@ -1,5 +1,5 @@
 {
-  "view": 334,
+  "view": 335,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3673,5 +3673,16 @@
     "city": "Bandar Agung",
     "latitude": -5.3003056,
     "longitude": 105.6823124
+  },
+  "2001:448a:6020:66db:9fe1:8f9c:2c05:87a5": {
+    "date": "02/06/2025",
+    "time": "13:20:02",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Kalimantan",
+    "city": "Amuntai",
+    "latitude": -2.416604,
+    "longitude": 115.239098
   }
 }
