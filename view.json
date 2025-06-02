@@ -1,5 +1,5 @@
 {
-  "view": 348,
+  "view": 349,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3827,5 +3827,16 @@
     "city": "Sumenep",
     "latitude": -7.009557,
     "longitude": 113.858299
+  },
+  "2404:c0:7150::936c:50c3": {
+    "date": "02/06/2025",
+    "time": "20:25:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Salatiga",
+    "latitude": -7.3305234,
+    "longitude": 110.5084366
   }
 }
