@@ -1,5 +1,5 @@
 {
-  "view": 312,
+  "view": 313,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3424,6 +3424,17 @@
   "54.89.212.185": {
     "date": "02/06/2025",
     "time": "10:41:36",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
+  },
+  "54.209.250.240": {
+    "date": "02/06/2025",
+    "time": "10:49:19",
     "country": "United States",
     "country_code": "US",
     "emoji": "🇺🇸",
