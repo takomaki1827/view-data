@@ -1,5 +1,5 @@
 {
-  "view": 337,
+  "view": 338,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3706,5 +3706,16 @@
     "city": "Palembang",
     "latitude": -2.9760735,
     "longitude": 104.7754307
+  },
+  "2001:448a:5065:30b6:8145:778:91c8:ba19": {
+    "date": "02/06/2025",
+    "time": "14:45:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Bali",
+    "city": "Denpasar",
+    "latitude": -8.6704582,
+    "longitude": 115.2126293
   }
 }
