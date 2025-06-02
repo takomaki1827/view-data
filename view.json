@@ -1,5 +1,5 @@
 {
-  "view": 309,
+  "view": 310,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3398,5 +3398,16 @@
     "city": "Nonthaburi",
     "latitude": 13.8591084,
     "longitude": 100.5216508
+  },
+  "35.171.193.215": {
+    "date": "02/06/2025",
+    "time": "10:40:50",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
   }
 }
