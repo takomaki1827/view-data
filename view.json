@@ -1,5 +1,5 @@
 {
-  "view": 306,
+  "view": 307,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3365,5 +3365,16 @@
     "city": "Salatiga",
     "latitude": -7.3305234,
     "longitude": 110.5084366
+  },
+  "2400:9800:6d0:f50f:1:0:6a53:7f76": {
+    "date": "02/06/2025",
+    "time": "07:00:18",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Metro",
+    "latitude": -5.1178394,
+    "longitude": 105.3072646
   }
 }
