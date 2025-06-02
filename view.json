@@ -1,5 +1,5 @@
 {
-  "view": 320,
+  "view": 321,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3519,5 +3519,16 @@
     "city": "Kedaton",
     "latitude": -5.3718525,
     "longitude": 105.2604409
+  },
+  "2402:1980:2d3:defc::1": {
+    "date": "02/06/2025",
+    "time": "11:26:29",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "emoji": "🇲🇾",
+    "region": "Selangor",
+    "city": "Shah Alam",
+    "latitude": 3.073281,
+    "longitude": 101.518461
   }
 }
