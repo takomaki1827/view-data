@@ -1,5 +1,5 @@
 {
-  "view": 366,
+  "view": 367,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4025,5 +4025,16 @@
     "city": "Cikampek",
     "latitude": -6.3958742,
     "longitude": 107.4381106
+  },
+  "182.1.96.78": {
+    "date": "03/06/2025",
+    "time": "21:10:38",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Salatiga",
+    "latitude": -7.3305234,
+    "longitude": 110.5084366
   }
 }
