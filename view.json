@@ -1,5 +1,5 @@
 {
-  "view": 355,
+  "view": 356,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3904,5 +3904,16 @@
     "city": "Kendawangan",
     "latitude": -2.544847,
     "longitude": 110.204803
+  },
+  "103.115.20.50": {
+    "date": "03/06/2025",
+    "time": "15:03:06",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Weru",
+    "latitude": -6.7120714,
+    "longitude": 108.495859
   }
 }
