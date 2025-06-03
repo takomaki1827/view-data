@@ -1,5 +1,5 @@
 {
-  "view": 367,
+  "view": 368,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4036,5 +4036,16 @@
     "city": "Salatiga",
     "latitude": -7.3305234,
     "longitude": 110.5084366
+  },
+  "114.10.95.103": {
+    "date": "03/06/2025",
+    "time": "22:08:20",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
