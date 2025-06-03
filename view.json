@@ -1,5 +1,5 @@
 {
-  "view": 363,
+  "view": 364,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3992,5 +3992,16 @@
     "city": "Baturaden",
     "latitude": -7.3045305,
     "longitude": 109.2236831
+  },
+  "103.181.254.163": {
+    "date": "03/06/2025",
+    "time": "19:50:19",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Gunem",
+    "latitude": -6.8558133,
+    "longitude": 111.4872092
   }
 }
