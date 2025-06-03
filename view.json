@@ -1,5 +1,5 @@
 {
-  "view": 362,
+  "view": 363,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3981,5 +3981,16 @@
     "city": "Pekanbaru",
     "latitude": 0.5070677,
     "longitude": 101.4477793
+  },
+  "140.213.43.235": {
+    "date": "03/06/2025",
+    "time": "19:41:14",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Baturaden",
+    "latitude": -7.3045305,
+    "longitude": 109.2236831
   }
 }
