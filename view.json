@@ -1,5 +1,5 @@
 {
-  "view": 356,
+  "view": 357,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -3915,5 +3915,16 @@
     "city": "Weru",
     "latitude": -6.7120714,
     "longitude": 108.495859
+  },
+  "103.111.119.36": {
+    "date": "03/06/2025",
+    "time": "18:16:51",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Kepatihan",
+    "latitude": -8.0621372,
+    "longitude": 111.9120065
   }
 }
