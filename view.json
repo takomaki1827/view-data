@@ -1,5 +1,5 @@
 {
-  "view": 381,
+  "view": 382,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4190,5 +4190,16 @@
     "city": "Jepara",
     "latitude": -6.5804981,
     "longitude": 110.6789833
+  },
+  "182.3.71.69": {
+    "date": "05/06/2025",
+    "time": "01:27:37",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Jambi",
+    "latitude": -1.6101229,
+    "longitude": 103.6131203
   }
 }
