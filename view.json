@@ -1,5 +1,5 @@
 {
-  "view": 380,
+  "view": 381,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4172,6 +4172,17 @@
   "103.186.90.85": {
     "date": "04/06/2025",
     "time": "20:31:04",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Jepara",
+    "latitude": -6.5804981,
+    "longitude": 110.6789833
+  },
+  "103.186.90.72": {
+    "date": "04/06/2025",
+    "time": "20:33:54",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
