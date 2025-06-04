@@ -1,5 +1,5 @@
 {
-  "view": 375,
+  "view": 376,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4124,5 +4124,16 @@
     "city": "Pontianak",
     "latitude": -0.0263303,
     "longitude": 109.3425039
+  },
+  "2402:5680:918f:8e20::1": {
+    "date": "04/06/2025",
+    "time": "19:30:32",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Jalan Paradise Serpong City",
+    "latitude": -6.3513683,
+    "longitude": 106.6950334
   }
 }
