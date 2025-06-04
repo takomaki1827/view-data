@@ -1,5 +1,5 @@
 {
-  "view": 372,
+  "view": 373,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4091,5 +4091,16 @@
     "city": "Sungai Gerong",
     "latitude": -2.9505021,
     "longitude": 104.8746508
+  },
+  "114.10.84.173": {
+    "date": "04/06/2025",
+    "time": "11:52:18",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan Sunggal",
+    "latitude": 3.5759525,
+    "longitude": 98.6215649
   }
 }
