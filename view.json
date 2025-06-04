@@ -1,5 +1,5 @@
 {
-  "view": 369,
+  "view": 370,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4058,5 +4058,16 @@
     "city": "Klaten",
     "latitude": -7.739967,
     "longitude": 110.6645683
+  },
+  "180.245.28.66": {
+    "date": "04/06/2025",
+    "time": "08:27:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
