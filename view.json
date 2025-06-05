@@ -1,5 +1,5 @@
 {
-  "view": 384,
+  "view": 385,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4223,5 +4223,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "102.90.102.243": {
+    "date": "06/06/2025",
+    "time": "05:41:26",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "emoji": "🇳🇬",
+    "region": "Enugu",
+    "city": "Enugu",
+    "latitude": 6.4583661,
+    "longitude": 7.5463885
   }
 }
