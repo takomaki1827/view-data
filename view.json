@@ -1,5 +1,5 @@
 {
-  "view": 385,
+  "view": 386,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4234,5 +4234,16 @@
     "city": "Enugu",
     "latitude": 6.4583661,
     "longitude": 7.5463885
+  },
+  "66.102.8.71": {
+    "date": "06/06/2025",
+    "time": "05:41:31",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
