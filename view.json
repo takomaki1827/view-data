@@ -1,5 +1,5 @@
 {
-  "view": 404,
+  "view": 405,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4443,5 +4443,16 @@
     "city": "Pangkalan Kasai",
     "latitude": -0.6059095,
     "longitude": 102.4151335
+  },
+  "103.174.63.4": {
+    "date": "06/06/2025",
+    "time": "16:06:11",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau Islands",
+    "city": "Tanjung Pinang",
+    "latitude": 0.9185504,
+    "longitude": 104.4665072
   }
 }
