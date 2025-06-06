@@ -1,5 +1,5 @@
 {
-  "view": 398,
+  "view": 399,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4377,5 +4377,16 @@
     "city": "West Ungaran",
     "latitude": -7.1361484,
     "longitude": 110.395438
+  },
+  "114.10.64.175": {
+    "date": "06/06/2025",
+    "time": "13:02:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
