@@ -1,5 +1,5 @@
 {
-  "view": 394,
+  "view": 395,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4333,5 +4333,16 @@
     "city": "Ngrejo",
     "latitude": -8.2559602,
     "longitude": 111.8628205
+  },
+  "114.4.212.105": {
+    "date": "06/06/2025",
+    "time": "12:46:59",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
