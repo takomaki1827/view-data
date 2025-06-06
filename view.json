@@ -1,5 +1,5 @@
 {
-  "view": 395,
+  "view": 396,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4344,5 +4344,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "114.122.42.18": {
+    "date": "06/06/2025",
+    "time": "12:53:40",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Pematang Siantar City",
+    "latitude": 2.970042,
+    "longitude": 99.0681668
   }
 }
