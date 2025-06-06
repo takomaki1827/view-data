@@ -1,5 +1,5 @@
 {
-  "view": 393,
+  "view": 394,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4322,5 +4322,16 @@
     "city": "San Jose",
     "latitude": 37.3382082,
     "longitude": -121.8863286
+  },
+  "103.150.32.161": {
+    "date": "06/06/2025",
+    "time": "10:36:16",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Ngrejo",
+    "latitude": -8.2559602,
+    "longitude": 111.8628205
   }
 }
