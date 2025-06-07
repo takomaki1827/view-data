@@ -1,5 +1,5 @@
 {
-  "view": 467,
+  "view": 468,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5136,5 +5136,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "77.168.249.114": {
+    "date": "07/06/2025",
+    "time": "15:30:20",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "emoji": "🇳🇱",
+    "region": "Utrecht",
+    "city": "Amersfoort",
+    "latitude": 52.1561113,
+    "longitude": 5.3878266
   }
 }
