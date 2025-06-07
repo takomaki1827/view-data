@@ -1,5 +1,5 @@
 {
-  "view": 422,
+  "view": 423,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4641,5 +4641,16 @@
     "city": "Banggai Regency",
     "latitude": -0.956178,
     "longitude": 122.6277455
+  },
+  "112.215.242.25": {
+    "date": "07/06/2025",
+    "time": "07:49:23",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Wates",
+    "latitude": -7.893728,
+    "longitude": 110.1434668
   }
 }
