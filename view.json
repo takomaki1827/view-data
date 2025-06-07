@@ -1,5 +1,5 @@
 {
-  "view": 458,
+  "view": 459,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5037,5 +5037,16 @@
     "city": "Magetan",
     "latitude": -7.6493413,
     "longitude": 111.3381593
+  },
+  "192.241.177.92": {
+    "date": "07/06/2025",
+    "time": "12:34:59",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "New Jersey",
+    "city": "Secaucus",
+    "latitude": 40.7895453,
+    "longitude": -74.0565298
   }
 }
