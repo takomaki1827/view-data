@@ -1,5 +1,5 @@
 {
-  "view": 421,
+  "view": 422,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4630,5 +4630,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "2001:448a:708e:1442:3d51:aac2:691b:5932": {
+    "date": "07/06/2025",
+    "time": "07:48:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Sulawesi",
+    "city": "Banggai Regency",
+    "latitude": -0.956178,
+    "longitude": 122.6277455
   }
 }
