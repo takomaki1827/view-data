@@ -1,5 +1,5 @@
 {
-  "view": 468,
+  "view": 469,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5147,5 +5147,16 @@
     "city": "Amersfoort",
     "latitude": 52.1561113,
     "longitude": 5.3878266
+  },
+  "36.78.51.5": {
+    "date": "07/06/2025",
+    "time": "16:06:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
