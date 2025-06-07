@@ -1,5 +1,5 @@
 {
-  "view": 414,
+  "view": 415,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4553,5 +4553,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "140.213.165.80": {
+    "date": "07/06/2025",
+    "time": "07:24:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Wonosobo Regency",
+    "latitude": -7.3632094,
+    "longitude": 109.9001796
   }
 }
