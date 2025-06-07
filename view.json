@@ -1,5 +1,5 @@
 {
-  "view": 419,
+  "view": 420,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4608,5 +4608,16 @@
     "city": "Tamiang Layang",
     "latitude": -2.1110964,
     "longitude": 115.1533426
+  },
+  "2400:9800:8c2:a18b:41ce:c430:164f:55a6": {
+    "date": "07/06/2025",
+    "time": "07:39:55",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Nusa Tenggara",
+    "city": "Mataram",
+    "latitude": -8.5769951,
+    "longitude": 116.1004894
   }
 }
