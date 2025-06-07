@@ -1,5 +1,5 @@
 {
-  "view": 420,
+  "view": 421,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4619,5 +4619,16 @@
     "city": "Mataram",
     "latitude": -8.5769951,
     "longitude": 116.1004894
+  },
+  "103.3.221.0": {
+    "date": "07/06/2025",
+    "time": "07:40:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
