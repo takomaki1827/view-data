@@ -1,5 +1,5 @@
 {
-  "view": 443,
+  "view": 444,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4872,5 +4872,16 @@
     "city": "Surabaya",
     "latitude": -7.2574719,
     "longitude": 112.7520883
+  },
+  "217.55.171.120": {
+    "date": "07/06/2025",
+    "time": "09:01:16",
+    "country": "Egypt",
+    "country_code": "EG",
+    "emoji": "🇪🇬",
+    "region": "Giza",
+    "city": "Giza",
+    "latitude": 30.0130557,
+    "longitude": 31.2088526
   }
 }
