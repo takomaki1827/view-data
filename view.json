@@ -1,5 +1,5 @@
 {
-  "view": 465,
+  "view": 466,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5114,5 +5114,16 @@
     "city": "Panyirapan",
     "latitude": -6.2360703,
     "longitude": 106.1229885
+  },
+  "112.215.66.229": {
+    "date": "07/06/2025",
+    "time": "14:35:21",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
