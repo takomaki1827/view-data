@@ -1,5 +1,5 @@
 {
-  "view": 426,
+  "view": 427,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4685,5 +4685,16 @@
     "city": "Wiralaga I",
     "latitude": -3.8683844,
     "longitude": 105.471249
+  },
+  "2001:448a:6080:a8e8:1e66:e7e3:39c5:d3a0": {
+    "date": "07/06/2025",
+    "time": "08:01:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Kalimantan",
+    "city": "Sungai Pinyuh",
+    "latitude": 0.2787514,
+    "longitude": 109.111931
   }
 }
