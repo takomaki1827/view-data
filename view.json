@@ -1,5 +1,5 @@
 {
-  "view": 444,
+  "view": 445,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4883,5 +4883,16 @@
     "city": "Giza",
     "latitude": 30.0130557,
     "longitude": 31.2088526
+  },
+  "140.213.11.202": {
+    "date": "07/06/2025",
+    "time": "09:10:10",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
