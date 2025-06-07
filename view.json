@@ -1,5 +1,5 @@
 {
-  "view": 411,
+  "view": 412,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4520,5 +4520,16 @@
     "city": "Karanglo",
     "latitude": -8.1974643,
     "longitude": 113.2483779
+  },
+  "114.79.54.197": {
+    "date": "07/06/2025",
+    "time": "07:11:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
