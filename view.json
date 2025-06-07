@@ -1,5 +1,5 @@
 {
-  "view": 427,
+  "view": 428,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4696,5 +4696,16 @@
     "city": "Sungai Pinyuh",
     "latitude": 0.2787514,
     "longitude": 109.111931
+  },
+  "103.245.168.214": {
+    "date": "07/06/2025",
+    "time": "08:15:30",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
