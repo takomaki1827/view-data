@@ -1,5 +1,5 @@
 {
-  "view": 439,
+  "view": 440,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4828,5 +4828,16 @@
     "city": "Bogor",
     "latitude": -6.5971469,
     "longitude": 106.8060388
+  },
+  "203.78.121.149": {
+    "date": "07/06/2025",
+    "time": "08:45:02",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Bali",
+    "city": "Jalan Bakung",
+    "latitude": -8.64027,
+    "longitude": 115.2616215
   }
 }
