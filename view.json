@@ -1,5 +1,5 @@
 {
-  "view": 462,
+  "view": 463,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5081,5 +5081,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "118.99.84.35": {
+    "date": "07/06/2025",
+    "time": "13:21:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Brongkalan",
+    "latitude": -7.2484,
+    "longitude": 112.7419
   }
 }
