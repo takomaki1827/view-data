@@ -1,5 +1,5 @@
 {
-  "view": 459,
+  "view": 460,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5048,5 +5048,16 @@
     "city": "Secaucus",
     "latitude": 40.7895453,
     "longitude": -74.0565298
+  },
+  "180.254.74.18": {
+    "date": "07/06/2025",
+    "time": "12:36:11",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Rangkasbitung",
+    "latitude": -6.3472894,
+    "longitude": 106.287521
   }
 }
