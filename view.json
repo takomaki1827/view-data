@@ -1,5 +1,5 @@
 {
-  "view": 453,
+  "view": 454,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4982,5 +4982,16 @@
     "city": "Sepatan",
     "latitude": -6.1188248,
     "longitude": 106.5756671
+  },
+  "180.242.199.197": {
+    "date": "07/06/2025",
+    "time": "10:27:49",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Kalimantan",
+    "city": "Pemangkat",
+    "latitude": 1.175333,
+    "longitude": 108.970398
   }
 }
