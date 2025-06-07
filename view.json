@@ -1,5 +1,5 @@
 {
-  "view": 447,
+  "view": 448,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4916,5 +4916,16 @@
     "city": "Trucuk",
     "latitude": -7.7291029,
     "longitude": 110.6764877
+  },
+  "2404:c0:7140::2:ae56:cacf": {
+    "date": "07/06/2025",
+    "time": "09:34:48",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Jekulo",
+    "latitude": -6.8099519,
+    "longitude": 110.9193691
   }
 }
