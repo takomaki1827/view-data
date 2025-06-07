@@ -1,5 +1,5 @@
 {
-  "view": 455,
+  "view": 456,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5004,5 +5004,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "182.1.208.145": {
+    "date": "07/06/2025",
+    "time": "11:46:18",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sulawesi",
+    "city": "Enrekang",
+    "latitude": -3.563128,
+    "longitude": 119.7612
   }
 }
