@@ -1,5 +1,5 @@
 {
-  "view": 433,
+  "view": 434,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4762,5 +4762,16 @@
     "city": "Sumbawa Besar",
     "latitude": -8.504043,
     "longitude": 117.428497
+  },
+  "140.213.126.29": {
+    "date": "07/06/2025",
+    "time": "08:21:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Nusa Tenggara",
+    "city": "Mataram",
+    "latitude": -8.5769951,
+    "longitude": 116.1004894
   }
 }
