@@ -1,5 +1,5 @@
 {
-  "view": 425,
+  "view": 426,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4674,5 +4674,16 @@
     "city": "Denpasar",
     "latitude": -8.6704582,
     "longitude": 115.2126293
+  },
+  "182.3.103.172": {
+    "date": "07/06/2025",
+    "time": "08:01:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Wiralaga I",
+    "latitude": -3.8683844,
+    "longitude": 105.471249
   }
 }
