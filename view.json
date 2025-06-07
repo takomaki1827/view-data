@@ -1,5 +1,5 @@
 {
-  "view": 430,
+  "view": 431,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4729,5 +4729,16 @@
     "city": "Samarinda",
     "latitude": -0.4948232,
     "longitude": 117.1436154
+  },
+  "103.240.68.77": {
+    "date": "07/06/2025",
+    "time": "08:19:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Percut Sei Tuan",
+    "latitude": 3.6396672,
+    "longitude": 98.770147
   }
 }
