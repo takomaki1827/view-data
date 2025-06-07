@@ -1,5 +1,5 @@
 {
-  "view": 441,
+  "view": 442,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4850,5 +4850,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "2001:448a:6040:717f:76e3:16ad:8dc3:d39b": {
+    "date": "07/06/2025",
+    "time": "08:48:46",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Kalimantan",
+    "city": "Balikpapan",
+    "latitude": -1.2379274,
+    "longitude": 116.8528526
   }
 }
