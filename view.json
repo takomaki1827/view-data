@@ -1,5 +1,5 @@
 {
-  "view": 431,
+  "view": 432,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4740,5 +4740,16 @@
     "city": "Percut Sei Tuan",
     "latitude": 3.6396672,
     "longitude": 98.770147
+  },
+  "125.164.0.132": {
+    "date": "07/06/2025",
+    "time": "08:19:39",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Surabaya",
+    "latitude": -7.2574719,
+    "longitude": 112.7520883
   }
 }
