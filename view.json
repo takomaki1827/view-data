@@ -1,5 +1,5 @@
 {
-  "view": 460,
+  "view": 461,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5059,5 +5059,16 @@
     "city": "Rangkasbitung",
     "latitude": -6.3472894,
     "longitude": 106.287521
+  },
+  "125.166.3.76": {
+    "date": "07/06/2025",
+    "time": "12:39:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Ngawi",
+    "latitude": -7.4190726,
+    "longitude": 111.4573989
   }
 }
