@@ -1,5 +1,5 @@
 {
-  "view": 448,
+  "view": 449,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4927,5 +4927,16 @@
     "city": "Jekulo",
     "latitude": -6.8099519,
     "longitude": 110.9193691
+  },
+  "202.47.65.163": {
+    "date": "07/06/2025",
+    "time": "10:08:21",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
