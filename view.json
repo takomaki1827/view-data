@@ -1,5 +1,5 @@
 {
-  "view": 432,
+  "view": 433,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -4751,5 +4751,16 @@
     "city": "Surabaya",
     "latitude": -7.2574719,
     "longitude": 112.7520883
+  },
+  "125.166.126.128": {
+    "date": "07/06/2025",
+    "time": "08:21:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Nusa Tenggara",
+    "city": "Sumbawa Besar",
+    "latitude": -8.504043,
+    "longitude": 117.428497
   }
 }
