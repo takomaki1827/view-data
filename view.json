@@ -1,5 +1,5 @@
 {
-  "view": 481,
+  "view": 482,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5290,5 +5290,16 @@
     "city": "Makassar",
     "latitude": -5.1476651,
     "longitude": 119.4327314
+  },
+  "182.1.193.7": {
+    "date": "08/06/2025",
+    "time": "19:15:25",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sulawesi",
+    "city": "Tatelu Satu",
+    "latitude": 1.5284892,
+    "longitude": 125.0112782
   }
 }
