@@ -1,5 +1,5 @@
 {
-  "view": 482,
+  "view": 483,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5301,5 +5301,16 @@
     "city": "Tatelu Satu",
     "latitude": 1.5284892,
     "longitude": 125.0112782
+  },
+  "140.213.11.10": {
+    "date": "08/06/2025",
+    "time": "19:26:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
