@@ -1,5 +1,5 @@
 {
-  "view": 476,
+  "view": 477,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5235,5 +5235,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "180.253.54.19": {
+    "date": "08/06/2025",
+    "time": "17:43:59",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sulawesi",
+    "city": "Tahuna",
+    "latitude": 3.611106,
+    "longitude": 125.485509
   }
 }
