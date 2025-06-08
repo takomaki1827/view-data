@@ -1,5 +1,5 @@
 {
-  "view": 474,
+  "view": 475,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5213,5 +5213,16 @@
     "city": "Jambi",
     "latitude": -1.6101229,
     "longitude": 103.6131203
+  },
+  "182.1.192.60": {
+    "date": "08/06/2025",
+    "time": "10:06:28",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sulawesi",
+    "city": "Makassar",
+    "latitude": -5.1476651,
+    "longitude": 119.4327314
   }
 }
