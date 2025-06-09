@@ -1,5 +1,5 @@
 {
-  "view": 487,
+  "view": 488,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5356,5 +5356,16 @@
     "city": "Wagir",
     "latitude": -8.014754,
     "longitude": 112.595398
+  },
+  "2400:9800:18:cf48:1:0:318c:c5ea": {
+    "date": "09/06/2025",
+    "time": "09:16:41",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
