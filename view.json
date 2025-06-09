@@ -1,5 +1,5 @@
 {
-  "view": 486,
+  "view": 487,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5345,5 +5345,16 @@
     "city": "Três Cachoeiras",
     "latitude": -29.4529172,
     "longitude": -49.9212177
+  },
+  "157.15.62.81": {
+    "date": "09/06/2025",
+    "time": "08:35:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Wagir",
+    "latitude": -8.014754,
+    "longitude": 112.595398
   }
 }
