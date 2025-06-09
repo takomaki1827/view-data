@@ -1,5 +1,5 @@
 {
-  "view": 492,
+  "view": 493,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5411,5 +5411,16 @@
     "city": "Pasar Kemis",
     "latitude": -6.1546723,
     "longitude": 106.5466221
+  },
+  "66.249.83.99": {
+    "date": "09/06/2025",
+    "time": "15:27:43",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
