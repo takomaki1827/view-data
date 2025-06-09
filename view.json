@@ -1,5 +1,5 @@
 {
-  "view": 485,
+  "view": 486,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5334,5 +5334,16 @@
     "city": "Cooper City",
     "latitude": 26.0573112,
     "longitude": -80.271716
+  },
+  "179.109.198.147": {
+    "date": "09/06/2025",
+    "time": "07:33:13",
+    "country": "Brazil",
+    "country_code": "BR",
+    "emoji": "🇧🇷",
+    "region": "State of Rio Grande do Sul",
+    "city": "Três Cachoeiras",
+    "latitude": -29.4529172,
+    "longitude": -49.9212177
   }
 }
