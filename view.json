@@ -1,5 +1,5 @@
 {
-  "view": 491,
+  "view": 492,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5400,5 +5400,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "180.243.213.244": {
+    "date": "09/06/2025",
+    "time": "15:27:40",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Pasar Kemis",
+    "latitude": -6.1546723,
+    "longitude": 106.5466221
   }
 }
