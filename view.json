@@ -1,5 +1,5 @@
 {
-  "view": 494,
+  "view": 495,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5433,5 +5433,16 @@
     "city": "Tebing Tinggi City",
     "latitude": 3.3262879,
     "longitude": 99.1566855
+  },
+  "114.122.10.87": {
+    "date": "09/06/2025",
+    "time": "22:46:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Aceh",
+    "city": "Langsa",
+    "latitude": 4.4725348,
+    "longitude": 97.9756343
   }
 }
