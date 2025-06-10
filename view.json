@@ -1,5 +1,5 @@
 {
-  "view": 495,
+  "view": 496,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5444,5 +5444,16 @@
     "city": "Langsa",
     "latitude": 4.4725348,
     "longitude": 97.9756343
+  },
+  "2400:9800:680:a5ce:1:0:2dcd:39f5": {
+    "date": "10/06/2025",
+    "time": "08:45:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Jambi",
+    "latitude": -1.6101229,
+    "longitude": 103.6131203
   }
 }
