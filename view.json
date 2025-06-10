@@ -1,5 +1,5 @@
 {
-  "view": 496,
+  "view": 497,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5455,5 +5455,16 @@
     "city": "Jambi",
     "latitude": -1.6101229,
     "longitude": 103.6131203
+  },
+  "203.78.121.187": {
+    "date": "10/06/2025",
+    "time": "14:20:17",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Bali",
+    "city": "Jalan Raya Kerobokan",
+    "latitude": -8.6767231,
+    "longitude": 115.1648464
   }
 }
