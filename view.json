@@ -1,5 +1,5 @@
 {
-  "view": 498,
+  "view": 499,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5477,5 +5477,16 @@
     "city": "Medan",
     "latitude": 3.5951956,
     "longitude": 98.6722227
+  },
+  "2001:448a:2061:c72b:1de9:5210:4dd1:a43c": {
+    "date": "10/06/2025",
+    "time": "19:57:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
