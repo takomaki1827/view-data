@@ -1,5 +1,5 @@
 {
-  "view": 502,
+  "view": 503,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5521,5 +5521,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "180.252.156.31": {
+    "date": "11/06/2025",
+    "time": "15:00:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Komplek Bandung City View 1",
+    "latitude": -6.8984856,
+    "longitude": 107.6750792
   }
 }
