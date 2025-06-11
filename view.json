@@ -1,5 +1,5 @@
 {
-  "view": 501,
+  "view": 502,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5510,5 +5510,16 @@
     "city": "Pekanbaru",
     "latitude": 0.5070677,
     "longitude": 101.4477793
+  },
+  "64.233.172.40": {
+    "date": "11/06/2025",
+    "time": "12:54:10",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
