@@ -1,5 +1,5 @@
 {
-  "view": 518,
+  "view": 519,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5697,5 +5697,16 @@
     "city": "Kali Anyar",
     "latitude": -7.642771,
     "longitude": 112.0699931
+  },
+  "205.169.39.1": {
+    "date": "15/06/2025",
+    "time": "22:12:30",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Texas",
+    "city": "Dallas",
+    "latitude": 32.7766642,
+    "longitude": -96.7969879
   }
 }
