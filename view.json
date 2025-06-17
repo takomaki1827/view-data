@@ -1,5 +1,5 @@
 {
-  "view": 525,
+  "view": 526,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5767,6 +5767,17 @@
   "2400:9800:3a0:88f3:58f0:e4ff:fece:a31c": {
     "date": "17/06/2025",
     "time": "10:49:43",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
+  },
+  "2400:9800:3a0:4914:58f0:e4ff:fece:a31c": {
+    "date": "17/06/2025",
+    "time": "11:32:56",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
