@@ -1,5 +1,5 @@
 {
-  "view": 521,
+  "view": 522,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5730,5 +5730,16 @@
     "city": "Weru",
     "latitude": -6.7120714,
     "longitude": 108.495859
+  },
+  "2001:448a:10c4:37cc:8056:a8fb:bb43:dccb": {
+    "date": "17/06/2025",
+    "time": "07:30:44",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
