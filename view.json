@@ -1,5 +1,5 @@
 {
-  "view": 580,
+  "view": 581,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6379,5 +6379,16 @@
     "city": "Johor Bahru",
     "latitude": 1.481217,
     "longitude": 103.6827079
+  },
+  "180.252.21.80": {
+    "date": "20/06/2025",
+    "time": "02:52:38",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Pasirjengkol",
+    "latitude": -6.3045618,
+    "longitude": 107.346448
   }
 }
