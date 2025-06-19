@@ -1,5 +1,5 @@
 {
-  "view": 556,
+  "view": 557,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6115,5 +6115,16 @@
     "city": "Makassar",
     "latitude": -5.1476651,
     "longitude": 119.4327314
+  },
+  "186.130.51.245": {
+    "date": "19/06/2025",
+    "time": "12:45:10",
+    "country": "Argentina",
+    "country_code": "AR",
+    "emoji": "🇦🇷",
+    "region": "Buenos Aires",
+    "city": "Villa Ballester",
+    "latitude": -34.5492357,
+    "longitude": -58.5588195
   }
 }
