@@ -1,5 +1,5 @@
 {
-  "view": 551,
+  "view": 552,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6060,5 +6060,16 @@
     "city": "Ashburn",
     "latitude": 39.0437567,
     "longitude": -77.4874416
+  },
+  "103.106.112.195": {
+    "date": "19/06/2025",
+    "time": "12:31:52",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kedaton",
+    "latitude": -5.3718525,
+    "longitude": 105.2604409
   }
 }
