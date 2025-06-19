@@ -1,5 +1,5 @@
 {
-  "view": 559,
+  "view": 560,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6148,5 +6148,16 @@
     "city": "Helsinki",
     "latitude": 60.1698557,
     "longitude": 24.938379
+  },
+  "125.164.8.203": {
+    "date": "19/06/2025",
+    "time": "12:55:38",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Kali Anyar",
+    "latitude": -7.642771,
+    "longitude": 112.0699931
   }
 }
