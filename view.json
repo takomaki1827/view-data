@@ -1,5 +1,5 @@
 {
-  "view": 549,
+  "view": 550,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6038,5 +6038,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "179.49.144.20": {
+    "date": "19/06/2025",
+    "time": "12:26:29",
+    "country": "Brazil",
+    "country_code": "BR",
+    "emoji": "🇧🇷",
+    "region": "State of Rio de Janeiro",
+    "city": "Cabiúnas",
+    "latitude": -22.2889621,
+    "longitude": -41.7212882
   }
 }
