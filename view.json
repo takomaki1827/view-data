@@ -1,5 +1,5 @@
 {
-  "view": 560,
+  "view": 561,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6159,5 +6159,16 @@
     "city": "Kali Anyar",
     "latitude": -7.642771,
     "longitude": 112.0699931
+  },
+  "36.68.55.128": {
+    "date": "19/06/2025",
+    "time": "12:55:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Ketanggungan",
+    "latitude": -7.0108835,
+    "longitude": 108.8907988
   }
 }
