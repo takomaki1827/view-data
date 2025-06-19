@@ -1,5 +1,5 @@
 {
-  "view": 550,
+  "view": 551,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6049,5 +6049,16 @@
     "city": "Cabiúnas",
     "latitude": -22.2889621,
     "longitude": -41.7212882
+  },
+  "44.199.39.34": {
+    "date": "19/06/2025",
+    "time": "12:27:34",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
   }
 }
