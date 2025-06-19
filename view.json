@@ -1,5 +1,5 @@
 {
-  "view": 564,
+  "view": 565,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6203,5 +6203,16 @@
     "city": "Kwandang",
     "latitude": 0.8440051,
     "longitude": 122.9141113
+  },
+  "125.166.118.17": {
+    "date": "19/06/2025",
+    "time": "14:27:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Situbondo",
+    "latitude": -7.7050532,
+    "longitude": 113.9952789
   }
 }
