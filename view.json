@@ -1,5 +1,5 @@
 {
-  "view": 548,
+  "view": 549,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6027,5 +6027,16 @@
     "city": "Pemalang",
     "latitude": -6.9201316,
     "longitude": 109.370576
+  },
+  "103.158.28.39": {
+    "date": "19/06/2025",
+    "time": "12:26:27",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
