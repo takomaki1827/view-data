@@ -1,5 +1,5 @@
 {
-  "view": 563,
+  "view": 564,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6192,5 +6192,16 @@
     "city": "Batam",
     "latitude": 1.0456264,
     "longitude": 104.0304535
+  },
+  "103.185.254.242": {
+    "date": "19/06/2025",
+    "time": "14:02:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Gorontalo",
+    "city": "Kwandang",
+    "latitude": 0.8440051,
+    "longitude": 122.9141113
   }
 }
