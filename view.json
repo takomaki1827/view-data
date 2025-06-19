@@ -1,5 +1,5 @@
 {
-  "view": 561,
+  "view": 562,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6170,5 +6170,16 @@
     "city": "Ketanggungan",
     "latitude": -7.0108835,
     "longitude": 108.8907988
+  },
+  "140.213.17.33": {
+    "date": "19/06/2025",
+    "time": "13:07:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
