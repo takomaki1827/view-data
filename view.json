@@ -1,5 +1,5 @@
 {
-  "view": 530,
+  "view": 531,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5829,5 +5829,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "143.110.147.52": {
+    "date": "19/06/2025",
+    "time": "11:30:47",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Santa Clara",
+    "latitude": 37.3541079,
+    "longitude": -121.9552356
   }
 }
