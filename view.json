@@ -1,5 +1,5 @@
 {
-  "view": 571,
+  "view": 572,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6280,5 +6280,16 @@
     "city": "Masai",
     "latitude": 1.502289,
     "longitude": 103.822303
+  },
+  "103.183.98.238": {
+    "date": "19/06/2025",
+    "time": "18:43:05",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Jalan Kalijudan IX Gayam",
+    "latitude": -7.2573138,
+    "longitude": 112.7847247
   }
 }
