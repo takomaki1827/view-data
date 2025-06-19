@@ -1,5 +1,5 @@
 {
-  "view": 566,
+  "view": 567,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6225,5 +6225,16 @@
     "city": "Dublin",
     "latitude": 53.3165322,
     "longitude": -6.3425318
+  },
+  "114.10.95.123": {
+    "date": "19/06/2025",
+    "time": "15:47:14",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Sumatra",
+    "city": "Padang",
+    "latitude": -0.9470832,
+    "longitude": 100.417181
   }
 }
