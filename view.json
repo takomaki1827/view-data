@@ -1,5 +1,5 @@
 {
-  "view": 576,
+  "view": 577,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6335,5 +6335,16 @@
     "city": "Blitar",
     "latitude": -8.0954627,
     "longitude": 112.1609056
+  },
+  "202.47.188.92": {
+    "date": "19/06/2025",
+    "time": "20:42:30",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
