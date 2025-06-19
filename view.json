@@ -1,5 +1,5 @@
 {
-  "view": 539,
+  "view": 540,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5919,6 +5919,17 @@
     "longitude": -121.9552356
   },
   "143.244.186.84": {
+    "date": "19/06/2025",
+    "time": "12:03:25",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Santa Clara",
+    "latitude": 37.3541079,
+    "longitude": -121.9552356
+  },
+  "209.38.77.14": {
     "date": "19/06/2025",
     "time": "12:03:25",
     "country": "United States",
