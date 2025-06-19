@@ -1,5 +1,5 @@
 {
-  "view": 578,
+  "view": 579,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6357,5 +6357,16 @@
     "city": "Portland",
     "latitude": 45.5230622,
     "longitude": -122.6764816
+  },
+  "168.151.102.93": {
+    "date": "20/06/2025",
+    "time": "00:50:25",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Florida",
+    "city": "Clearwater",
+    "latitude": 27.9658533,
+    "longitude": -82.8001026
   }
 }
