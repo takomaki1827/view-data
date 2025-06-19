@@ -1,5 +1,5 @@
 {
-  "view": 544,
+  "view": 545,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5983,5 +5983,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "45.251.5.175": {
+    "date": "19/06/2025",
+    "time": "12:22:06",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
