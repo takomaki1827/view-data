@@ -1,5 +1,5 @@
 {
-  "view": 568,
+  "view": 569,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6247,5 +6247,16 @@
     "city": "Malang",
     "latitude": -7.9666204,
     "longitude": 112.6326321
+  },
+  "103.144.227.233": {
+    "date": "19/06/2025",
+    "time": "17:04:07",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Sulawesi Tenggara",
+    "city": "Kendari",
+    "latitude": -3.9984597,
+    "longitude": 122.5129742
   }
 }
