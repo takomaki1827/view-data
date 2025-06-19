@@ -1,5 +1,5 @@
 {
-  "view": 570,
+  "view": 571,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6269,5 +6269,16 @@
     "city": "Makassar",
     "latitude": -5.1476651,
     "longitude": 119.4327314
+  },
+  "183.171.28.124": {
+    "date": "19/06/2025",
+    "time": "18:07:15",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "emoji": "🇲🇾",
+    "region": "Johor",
+    "city": "Masai",
+    "latitude": 1.502289,
+    "longitude": 103.822303
   }
 }
