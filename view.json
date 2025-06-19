@@ -1,5 +1,5 @@
 {
-  "view": 572,
+  "view": 573,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6291,5 +6291,16 @@
     "city": "Jalan Kalijudan IX Gayam",
     "latitude": -7.2573138,
     "longitude": 112.7847247
+  },
+  "103.179.248.249": {
+    "date": "19/06/2025",
+    "time": "18:53:37",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan Sunggal",
+    "latitude": 3.5759525,
+    "longitude": 98.6215649
   }
 }
