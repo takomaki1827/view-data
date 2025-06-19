@@ -1,5 +1,5 @@
 {
-  "view": 579,
+  "view": 580,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6368,5 +6368,16 @@
     "city": "Clearwater",
     "latitude": 27.9658533,
     "longitude": -82.8001026
+  },
+  "183.171.29.160": {
+    "date": "20/06/2025",
+    "time": "02:43:52",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "emoji": "🇲🇾",
+    "region": "Johor",
+    "city": "Johor Bahru",
+    "latitude": 1.481217,
+    "longitude": 103.6827079
   }
 }
