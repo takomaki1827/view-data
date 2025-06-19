@@ -1,5 +1,5 @@
 {
-  "view": 532,
+  "view": 533,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -5851,5 +5851,16 @@
     "city": "Santa Clara",
     "latitude": 37.3541079,
     "longitude": -121.9552356
+  },
+  "180.245.235.51": {
+    "date": "19/06/2025",
+    "time": "11:30:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Jatibarang",
+    "latitude": -6.4749823,
+    "longitude": 108.3067382
   }
 }
