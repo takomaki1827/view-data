@@ -1,5 +1,5 @@
 {
-  "view": 591,
+  "view": 592,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6500,5 +6500,16 @@
     "city": "محافظة الجيزة",
     "latitude": 30.0678597,
     "longitude": 31.0211949
+  },
+  "180.244.165.164": {
+    "date": "20/06/2025",
+    "time": "17:36:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
