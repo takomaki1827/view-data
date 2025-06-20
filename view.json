@@ -1,5 +1,5 @@
 {
-  "view": 586,
+  "view": 587,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6445,5 +6445,16 @@
     "city": "Palas",
     "latitude": -5.6225718,
     "longitude": 105.6935181
+  },
+  "182.4.132.143": {
+    "date": "20/06/2025",
+    "time": "16:22:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Blitar",
+    "latitude": -8.0954627,
+    "longitude": 112.1609056
   }
 }
