@@ -1,5 +1,5 @@
 {
-  "view": 594,
+  "view": 595,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6533,5 +6533,16 @@
     "city": "Thrissur",
     "latitude": 10.5276416,
     "longitude": 76.2144349
+  },
+  "114.10.98.182": {
+    "date": "21/06/2025",
+    "time": "00:31:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Lahat",
+    "latitude": -3.7856268,
+    "longitude": 103.5407993
   }
 }
