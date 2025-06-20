@@ -1,5 +1,5 @@
 {
-  "view": 581,
+  "view": 582,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6390,5 +6390,16 @@
     "city": "Pasirjengkol",
     "latitude": -6.3045618,
     "longitude": 107.346448
+  },
+  "49.196.253.54": {
+    "date": "20/06/2025",
+    "time": "11:14:02",
+    "country": "Australia",
+    "country_code": "AU",
+    "emoji": "🇦🇺",
+    "region": "Western Australia",
+    "city": "Perth",
+    "latitude": -31.9505269,
+    "longitude": 115.8604572
   }
 }
