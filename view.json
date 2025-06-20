@@ -1,5 +1,5 @@
 {
-  "view": 593,
+  "view": 594,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6522,5 +6522,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "103.166.245.236": {
+    "date": "20/06/2025",
+    "time": "18:58:22",
+    "country": "India",
+    "country_code": "IN",
+    "emoji": "🇮🇳",
+    "region": "Kerala",
+    "city": "Thrissur",
+    "latitude": 10.5276416,
+    "longitude": 76.2144349
   }
 }
