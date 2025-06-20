@@ -1,5 +1,5 @@
 {
-  "view": 588,
+  "view": 589,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6467,5 +6467,16 @@
     "city": "Diwek",
     "latitude": -7.6106401,
     "longitude": 112.2396921
+  },
+  "114.5.250.167": {
+    "date": "20/06/2025",
+    "time": "16:29:49",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Pamanukan",
+    "latitude": -6.2957395,
+    "longitude": 107.8228459
   }
 }
