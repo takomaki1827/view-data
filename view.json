@@ -1,5 +1,5 @@
 {
-  "view": 587,
+  "view": 588,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6456,5 +6456,16 @@
     "city": "Blitar",
     "latitude": -8.0954627,
     "longitude": 112.1609056
+  },
+  "114.79.21.222": {
+    "date": "20/06/2025",
+    "time": "16:27:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Diwek",
+    "latitude": -7.6106401,
+    "longitude": 112.2396921
   }
 }
