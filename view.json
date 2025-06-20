@@ -1,5 +1,5 @@
 {
-  "view": 582,
+  "view": 583,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6401,5 +6401,16 @@
     "city": "Perth",
     "latitude": -31.9505269,
     "longitude": 115.8604572
+  },
+  "103.47.133.88": {
+    "date": "20/06/2025",
+    "time": "13:25:03",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Nganjuk",
+    "latitude": -7.6043721,
+    "longitude": 111.8993478
   }
 }
