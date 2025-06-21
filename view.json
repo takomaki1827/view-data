@@ -1,5 +1,5 @@
 {
-  "view": 601,
+  "view": 602,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6610,5 +6610,16 @@
     "city": "Nganjuk",
     "latitude": -7.6043721,
     "longitude": 111.8993478
+  },
+  "182.5.199.165": {
+    "date": "21/06/2025",
+    "time": "17:18:01",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Plalangan",
+    "latitude": -8.1397857,
+    "longitude": 113.8333065
   }
 }
