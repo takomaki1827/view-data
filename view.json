@@ -1,5 +1,5 @@
 {
-  "view": 598,
+  "view": 599,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6577,5 +6577,16 @@
     "city": "Amsterdam",
     "latitude": 52.3702157,
     "longitude": 4.8951679
+  },
+  "36.73.151.126": {
+    "date": "21/06/2025",
+    "time": "17:14:17",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Wonosobo Regency",
+    "latitude": -7.3632094,
+    "longitude": 109.9001796
   }
 }
