@@ -1,5 +1,5 @@
 {
-  "view": 607,
+  "view": 608,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6676,5 +6676,16 @@
     "city": "Plumbon",
     "latitude": -6.6947661,
     "longitude": 108.48102
+  },
+  "114.122.36.67": {
+    "date": "21/06/2025",
+    "time": "17:40:23",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Tebing Tinggi City",
+    "latitude": 3.3262879,
+    "longitude": 99.1566855
   }
 }
