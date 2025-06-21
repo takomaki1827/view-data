@@ -1,5 +1,5 @@
 {
-  "view": 608,
+  "view": 609,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6687,5 +6687,16 @@
     "city": "Tebing Tinggi City",
     "latitude": 3.3262879,
     "longitude": 99.1566855
+  },
+  "103.124.139.133": {
+    "date": "21/06/2025",
+    "time": "21:29:16",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Mranggen",
+    "latitude": -7.0425557,
+    "longitude": 110.5096283
   }
 }
