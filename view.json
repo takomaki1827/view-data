@@ -1,5 +1,5 @@
 {
-  "view": 602,
+  "view": 603,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6621,5 +6621,16 @@
     "city": "Plalangan",
     "latitude": -8.1397857,
     "longitude": 113.8333065
+  },
+  "103.189.207.119": {
+    "date": "21/06/2025",
+    "time": "17:21:33",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Pringsewu Regency",
+    "latitude": -5.3331186,
+    "longitude": 104.9856176
   }
 }
