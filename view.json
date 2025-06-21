@@ -1,5 +1,5 @@
 {
-  "view": 596,
+  "view": 597,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6555,5 +6555,16 @@
     "city": "Semarang",
     "latitude": -7.0051453,
     "longitude": 110.4381254
+  },
+  "64.233.173.237": {
+    "date": "21/06/2025",
+    "time": "14:08:29",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
