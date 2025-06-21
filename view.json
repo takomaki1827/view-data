@@ -1,5 +1,5 @@
 {
-  "view": 606,
+  "view": 607,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6665,5 +6665,16 @@
     "city": "Kebomas",
     "latitude": -7.1919634,
     "longitude": 112.6459695
+  },
+  "182.5.132.73": {
+    "date": "21/06/2025",
+    "time": "17:36:33",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Plumbon",
+    "latitude": -6.6947661,
+    "longitude": 108.48102
   }
 }
