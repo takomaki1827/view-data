@@ -1,5 +1,5 @@
 {
-  "view": 600,
+  "view": 601,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6599,5 +6599,16 @@
     "city": "Banjarmasin",
     "latitude": -3.3186067,
     "longitude": 114.5943784
+  },
+  "103.47.133.152": {
+    "date": "21/06/2025",
+    "time": "17:16:29",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Nganjuk",
+    "latitude": -7.6043721,
+    "longitude": 111.8993478
   }
 }
