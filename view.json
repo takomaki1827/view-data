@@ -1,5 +1,5 @@
 {
-  "view": 610,
+  "view": 611,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6709,5 +6709,16 @@
     "city": "Cirebon",
     "latitude": -6.7320229,
     "longitude": 108.5523164
+  },
+  "66.249.75.109": {
+    "date": "22/06/2025",
+    "time": "09:20:15",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
