@@ -1,5 +1,5 @@
 {
-  "view": 609,
+  "view": 610,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6698,5 +6698,16 @@
     "city": "Mranggen",
     "latitude": -7.0425557,
     "longitude": 110.5096283
+  },
+  "114.5.210.173": {
+    "date": "22/06/2025",
+    "time": "08:17:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cirebon",
+    "latitude": -6.7320229,
+    "longitude": 108.5523164
   }
 }
