@@ -1,5 +1,5 @@
 {
-  "view": 611,
+  "view": 612,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6720,5 +6720,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "114.122.20.161": {
+    "date": "22/06/2025",
+    "time": "16:43:16",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan",
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   }
 }
