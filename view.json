@@ -1,5 +1,5 @@
 {
-  "view": 613,
+  "view": 614,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6742,5 +6742,16 @@
     "city": "Mojokerto",
     "latitude": -7.4704747,
     "longitude": 112.4401329
+  },
+  "36.80.184.32": {
+    "date": "23/06/2025",
+    "time": "07:03:40",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
