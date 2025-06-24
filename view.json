@@ -1,5 +1,5 @@
 {
-  "view": 625,
+  "view": 626,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6874,5 +6874,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "130.195.212.66": {
+    "date": "24/06/2025",
+    "time": "22:37:07",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Georgia",
+    "city": "Atlanta",
+    "latitude": 33.7489954,
+    "longitude": -84.3879824
   }
 }
