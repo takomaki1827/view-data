@@ -1,5 +1,5 @@
 {
-  "view": 626,
+  "view": 627,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6885,5 +6885,16 @@
     "city": "Atlanta",
     "latitude": 33.7489954,
     "longitude": -84.3879824
+  },
+  "114.4.215.185": {
+    "date": "24/06/2025",
+    "time": "23:22:04",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Unknown",
+    "city": "Ancol",
+    "latitude": -6.1329751,
+    "longitude": 106.8266873
   }
 }
