@@ -1,5 +1,5 @@
 {
-  "view": 618,
+  "view": 619,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6797,5 +6797,16 @@
     "city": "Depok",
     "latitude": -6.4024844,
     "longitude": 106.7942405
+  },
+  "180.252.119.92": {
+    "date": "24/06/2025",
+    "time": "18:32:57",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
