@@ -1,5 +1,5 @@
 {
-  "view": 617,
+  "view": 618,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6786,5 +6786,16 @@
     "city": "Banjarbaru",
     "latitude": -3.4572422,
     "longitude": 114.8103181
+  },
+  "180.252.92.2": {
+    "date": "24/06/2025",
+    "time": "18:27:25",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Depok",
+    "latitude": -6.4024844,
+    "longitude": 106.7942405
   }
 }
