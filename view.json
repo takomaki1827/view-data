@@ -1,5 +1,5 @@
 {
-  "view": 631,
+  "view": 632,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6940,5 +6940,16 @@
     "city": "Tangerang",
     "latitude": -6.2023936,
     "longitude": 106.6527099
+  },
+  "114.122.212.22": {
+    "date": "25/06/2025",
+    "time": "18:59:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Kalimantan",
+    "city": "Banjarmasin",
+    "latitude": -3.3186067,
+    "longitude": 114.5943784
   }
 }
