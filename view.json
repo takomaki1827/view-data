@@ -1,5 +1,5 @@
 {
-  "view": 633,
+  "view": 634,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6962,5 +6962,16 @@
     "city": "Purbalingga Regency",
     "latitude": -7.3058578,
     "longitude": 109.4259114
+  },
+  "125.165.108.63": {
+    "date": "26/06/2025",
+    "time": "00:16:35",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau",
+    "city": "Koto Taluk",
+    "latitude": -0.5128097,
+    "longitude": 101.556068
   }
 }
