@@ -1,5 +1,5 @@
 {
-  "view": 634,
+  "view": 635,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6973,5 +6973,16 @@
     "city": "Koto Taluk",
     "latitude": -0.5128097,
     "longitude": 101.556068
+  },
+  "180.252.127.96": {
+    "date": "26/06/2025",
+    "time": "06:20:02",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
