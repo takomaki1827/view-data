@@ -1,5 +1,5 @@
 {
-  "view": 632,
+  "view": 633,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6951,5 +6951,16 @@
     "city": "Banjarmasin",
     "latitude": -3.3186067,
     "longitude": 114.5943784
+  },
+  "114.125.94.233": {
+    "date": "25/06/2025",
+    "time": "20:17:34",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Purbalingga Regency",
+    "latitude": -7.3058578,
+    "longitude": 109.4259114
   }
 }
