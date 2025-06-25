@@ -1,5 +1,5 @@
 {
-  "view": 629,
+  "view": 630,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6918,5 +6918,16 @@
     "city": "Cirebon",
     "latitude": -6.7320229,
     "longitude": 108.5523164
+  },
+  "103.147.134.141": {
+    "date": "25/06/2025",
+    "time": "13:26:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Pamekasan Regency",
+    "latitude": -7.1050857,
+    "longitude": 113.5252319
   }
 }
