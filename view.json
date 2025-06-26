@@ -1,5 +1,5 @@
 {
-  "view": 636,
+  "view": 637,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -6988,6 +6988,17 @@
   "125.164.21.206": {
     "date": "26/06/2025",
     "time": "10:33:55",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cileunyi",
+    "latitude": -6.9316588,
+    "longitude": 107.7419708
+  },
+  "125.164.24.25": {
+    "date": "26/06/2025",
+    "time": "10:50:16",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
