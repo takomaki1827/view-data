@@ -1,5 +1,5 @@
 {
-  "view": 642,
+  "view": 643,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7061,5 +7061,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "114.10.143.3": {
+    "date": "28/06/2025",
+    "time": "15:32:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Kalimantan",
+    "city": "Banjarmasin",
+    "latitude": -3.3186067,
+    "longitude": 114.5943784
   }
 }
