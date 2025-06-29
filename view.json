@@ -1,5 +1,5 @@
 {
-  "view": 667,
+  "view": 668,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7336,5 +7336,16 @@
     "city": "Purbalingga Regency",
     "latitude": -7.3058578,
     "longitude": 109.4259114
+  },
+  "180.248.12.86": {
+    "date": "29/06/2025",
+    "time": "19:41:50",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Gampengrejo",
+    "latitude": -7.7556135,
+    "longitude": 112.029752
   }
 }
