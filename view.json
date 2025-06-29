@@ -1,5 +1,5 @@
 {
-  "view": 659,
+  "view": 660,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7248,5 +7248,16 @@
     "city": "Sigli",
     "latitude": 5.3847763,
     "longitude": 95.9602371
+  },
+  "114.10.145.147": {
+    "date": "29/06/2025",
+    "time": "15:58:59",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cileunyi",
+    "latitude": -6.9316588,
+    "longitude": 107.7419708
   }
 }
