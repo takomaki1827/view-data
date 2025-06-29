@@ -1,5 +1,5 @@
 {
-  "view": 652,
+  "view": 653,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7171,5 +7171,16 @@
     "city": "Ancol",
     "latitude": -6.1329751,
     "longitude": 106.8266873
+  },
+  "125.164.22.78": {
+    "date": "29/06/2025",
+    "time": "15:26:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cileunyi",
+    "latitude": -6.9316588,
+    "longitude": 107.7419708
   }
 }
