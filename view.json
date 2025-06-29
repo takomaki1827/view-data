@@ -1,5 +1,5 @@
 {
-  "view": 651,
+  "view": 652,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7160,5 +7160,16 @@
     "city": "Santa Clara",
     "latitude": 37.3541079,
     "longitude": -121.9552356
+  },
+  "114.4.83.18": {
+    "date": "29/06/2025",
+    "time": "15:23:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Unknown",
+    "city": "Ancol",
+    "latitude": -6.1329751,
+    "longitude": 106.8266873
   }
 }
