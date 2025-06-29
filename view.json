@@ -1,5 +1,5 @@
 {
-  "view": 660,
+  "view": 661,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7259,5 +7259,16 @@
     "city": "Cileunyi",
     "latitude": -6.9316588,
     "longitude": 107.7419708
+  },
+  "114.122.8.61": {
+    "date": "29/06/2025",
+    "time": "16:12:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan",
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   }
 }
