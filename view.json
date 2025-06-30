@@ -1,5 +1,5 @@
 {
-  "view": 678,
+  "view": 679,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7457,5 +7457,16 @@
     "city": "Wedoro",
     "latitude": -7.348395,
     "longitude": 112.7494759
+  },
+  "140.213.202.163": {
+    "date": "30/06/2025",
+    "time": "20:30:58",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Lahat",
+    "latitude": -3.7856268,
+    "longitude": 103.5407993
   }
 }
