@@ -1,5 +1,5 @@
 {
-  "view": 675,
+  "view": 676,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7424,5 +7424,16 @@
     "city": "Purwakarta",
     "latitude": -6.5406665,
     "longitude": 107.4462717
+  },
+  "54.174.140.70": {
+    "date": "30/06/2025",
+    "time": "15:27:09",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Virginia",
+    "city": "Ashburn",
+    "latitude": 39.0437567,
+    "longitude": -77.4874416
   }
 }
