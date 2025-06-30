@@ -1,5 +1,5 @@
 {
-  "view": 679,
+  "view": 680,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7468,5 +7468,16 @@
     "city": "Lahat",
     "latitude": -3.7856268,
     "longitude": 103.5407993
+  },
+  "114.10.150.206": {
+    "date": "30/06/2025",
+    "time": "21:34:28",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Surakarta",
+    "latitude": -7.5754887,
+    "longitude": 110.8243272
   }
 }
