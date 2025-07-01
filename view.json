@@ -1,5 +1,5 @@
 {
-  "view": 691,
+  "view": 692,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7600,5 +7600,16 @@
     "city": "Palembang",
     "latitude": -2.9760735,
     "longitude": 104.7754307
+  },
+  "114.10.78.231": {
+    "date": "01/07/2025",
+    "time": "21:53:00",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Jalan Pahlawan",
+    "latitude": -6.3946878,
+    "longitude": 106.958988
   }
 }
