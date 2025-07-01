@@ -1,5 +1,5 @@
 {
-  "view": 692,
+  "view": 693,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7611,5 +7611,16 @@
     "city": "Jalan Pahlawan",
     "latitude": -6.3946878,
     "longitude": 106.958988
+  },
+  "182.1.236.85": {
+    "date": "01/07/2025",
+    "time": "22:15:23",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jambi",
+    "city": "Sarolangun Regency",
+    "latitude": -2.3230422,
+    "longitude": 102.7135121
   }
 }
