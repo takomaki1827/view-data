@@ -1,5 +1,5 @@
 {
-  "view": 693,
+  "view": 694,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7622,5 +7622,16 @@
     "city": "Sarolangun Regency",
     "latitude": -2.3230422,
     "longitude": 102.7135121
+  },
+  "114.122.100.150": {
+    "date": "01/07/2025",
+    "time": "22:33:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
