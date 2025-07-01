@@ -1,5 +1,5 @@
 {
-  "view": 681,
+  "view": 682,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7490,5 +7490,16 @@
     "city": "Singkang",
     "latitude": -4.1397579,
     "longitude": 120.030701
+  },
+  "104.28.250.136": {
+    "date": "01/07/2025",
+    "time": "09:10:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Sukabumi",
+    "latitude": -6.9277361,
+    "longitude": 106.9299579
   }
 }
