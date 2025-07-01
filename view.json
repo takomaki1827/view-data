@@ -1,5 +1,5 @@
 {
-  "view": 686,
+  "view": 687,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7545,5 +7545,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "157.20.252.232": {
+    "date": "01/07/2025",
+    "time": "15:21:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau Islands",
+    "city": "Tanjung Pinang",
+    "latitude": 0.9185504,
+    "longitude": 104.4665072
   }
 }
