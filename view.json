@@ -1,5 +1,5 @@
 {
-  "view": 695,
+  "view": 696,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7644,5 +7644,16 @@
     "city": "Sungai Gerong",
     "latitude": -2.9505021,
     "longitude": 104.8746508
+  },
+  "143.198.57.132": {
+    "date": "02/07/2025",
+    "time": "10:47:14",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Santa Clara",
+    "latitude": 37.3541079,
+    "longitude": -121.9552356
   }
 }
