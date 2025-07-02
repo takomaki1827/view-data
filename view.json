@@ -1,5 +1,5 @@
 {
-  "view": 697,
+  "view": 698,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7666,5 +7666,16 @@
     "city": "Santa Clara",
     "latitude": 37.3541079,
     "longitude": -121.9552356
+  },
+  "180.245.29.109": {
+    "date": "02/07/2025",
+    "time": "10:50:35",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bekasi",
+    "latitude": -6.2474466,
+    "longitude": 107.1484521
   }
 }
