@@ -1,5 +1,5 @@
 {
-  "view": 699,
+  "view": 700,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7688,5 +7688,16 @@
     "city": "Jatibarang",
     "latitude": -6.4749823,
     "longitude": 108.3067382
+  },
+  "103.175.237.7": {
+    "date": "02/07/2025",
+    "time": "12:00:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Ngajum",
+    "latitude": -8.0959125,
+    "longitude": 112.5396347
   }
 }
