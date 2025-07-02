@@ -1,5 +1,5 @@
 {
-  "view": 702,
+  "view": 703,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7721,5 +7721,16 @@
     "city": "Pontianak",
     "latitude": -0.0263303,
     "longitude": 109.3425039
+  },
+  "66.249.68.39": {
+    "date": "02/07/2025",
+    "time": "21:52:27",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
