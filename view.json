@@ -1,5 +1,5 @@
 {
-  "view": 701,
+  "view": 702,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7710,5 +7710,16 @@
     "city": "Karangtengah",
     "latitude": -6.8008183,
     "longitude": 107.1781769
+  },
+  "140.213.86.114": {
+    "date": "02/07/2025",
+    "time": "20:44:14",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Kalimantan",
+    "city": "Pontianak",
+    "latitude": -0.0263303,
+    "longitude": 109.3425039
   }
 }
