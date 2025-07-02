@@ -1,5 +1,5 @@
 {
-  "view": 700,
+  "view": 701,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7699,5 +7699,16 @@
     "city": "Ngajum",
     "latitude": -8.0959125,
     "longitude": 112.5396347
+  },
+  "180.252.16.160": {
+    "date": "02/07/2025",
+    "time": "15:00:11",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Karangtengah",
+    "latitude": -6.8008183,
+    "longitude": 107.1781769
   }
 }
