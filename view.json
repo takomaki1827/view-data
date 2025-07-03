@@ -1,5 +1,5 @@
 {
-  "view": 703,
+  "view": 704,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7732,5 +7732,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "180.252.50.178": {
+    "date": "03/07/2025",
+    "time": "07:46:09",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau Islands",
+    "city": "Batam",
+    "latitude": 1.0456264,
+    "longitude": 104.0304535
   }
 }
