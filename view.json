@@ -1,5 +1,5 @@
 {
-  "view": 707,
+  "view": 708,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7769,6 +7769,17 @@
   "182.2.4.210": {
     "date": "04/07/2025",
     "time": "06:58:35",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau Islands",
+    "city": "Batam",
+    "latitude": 1.0456264,
+    "longitude": 104.0304535
+  },
+  "182.2.5.126": {
+    "date": "04/07/2025",
+    "time": "07:06:09",
     "country": "Indonesia",
     "country_code": "ID",
     "emoji": "🇮🇩",
