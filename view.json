@@ -1,5 +1,5 @@
 {
-  "view": 712,
+  "view": 713,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7831,5 +7831,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "114.10.103.134": {
+    "date": "05/07/2025",
+    "time": "21:34:56",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Terbanggi Besar",
+    "latitude": -4.882739,
+    "longitude": 105.217003
   }
 }
