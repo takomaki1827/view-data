@@ -1,5 +1,5 @@
 {
-  "view": 709,
+  "view": 710,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7798,5 +7798,16 @@
     "city": "Tandjungredeb",
     "latitude": 2.162305,
     "longitude": 117.492435
+  },
+  "180.245.232.128": {
+    "date": "05/07/2025",
+    "time": "21:24:33",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Jatibarang",
+    "latitude": -6.4749823,
+    "longitude": 108.3067382
   }
 }
