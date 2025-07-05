@@ -1,5 +1,5 @@
 {
-  "view": 710,
+  "view": 711,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7809,5 +7809,16 @@
     "city": "Jatibarang",
     "latitude": -6.4749823,
     "longitude": 108.3067382
+  },
+  "114.10.129.34": {
+    "date": "05/07/2025",
+    "time": "21:32:30",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sulawesi",
+    "city": "Molibagu",
+    "latitude": 0.3853632,
+    "longitude": 123.9813378
   }
 }
