@@ -1,5 +1,5 @@
 {
-  "view": 716,
+  "view": 717,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7875,5 +7875,16 @@
     "city": "Jatibarang",
     "latitude": -6.4749823,
     "longitude": 108.3067382
+  },
+  "140.213.55.24": {
+    "date": "06/07/2025",
+    "time": "08:13:34",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Bandung",
+    "latitude": -6.9174639,
+    "longitude": 107.6191228
   }
 }
