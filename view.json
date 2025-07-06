@@ -1,5 +1,5 @@
 {
-  "view": 717,
+  "view": 718,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7886,5 +7886,16 @@
     "city": "Bandung",
     "latitude": -6.9174639,
     "longitude": 107.6191228
+  },
+  "125.163.119.201": {
+    "date": "06/07/2025",
+    "time": "11:27:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Nusa Tenggara",
+    "city": "Mataram",
+    "latitude": -8.5769951,
+    "longitude": 116.1004894
   }
 }
