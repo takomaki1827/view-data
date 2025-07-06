@@ -1,5 +1,5 @@
 {
-  "view": 719,
+  "view": 720,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7908,5 +7908,16 @@
     "city": "Tangerang",
     "latitude": -6.2023936,
     "longitude": 106.6527099
+  },
+  "103.105.25.2": {
+    "date": "07/07/2025",
+    "time": "06:48:49",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Gorontalo",
+    "city": "Gorontalo",
+    "latitude": 0.5435442,
+    "longitude": 123.0567693
   }
 }
