@@ -1,5 +1,5 @@
 {
-  "view": 721,
+  "view": 722,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7930,5 +7930,16 @@
     "city": "Baturaden",
     "latitude": -7.3045305,
     "longitude": 109.2236831
+  },
+  "36.69.166.7": {
+    "date": "07/07/2025",
+    "time": "07:11:34",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Banten",
+    "city": "Tangerang",
+    "latitude": -6.2023936,
+    "longitude": 106.6527099
   }
 }
