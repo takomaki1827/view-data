@@ -1,5 +1,5 @@
 {
-  "view": 741,
+  "view": 742,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8150,5 +8150,16 @@
     "city": "Kebomas",
     "latitude": -7.1919634,
     "longitude": 112.6459695
+  },
+  "103.158.250.114": {
+    "date": "07/07/2025",
+    "time": "19:08:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Bebekan",
+    "latitude": -7.3440367,
+    "longitude": 112.7010599
   }
 }
