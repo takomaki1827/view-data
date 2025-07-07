@@ -1,5 +1,5 @@
 {
-  "view": 726,
+  "view": 727,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7985,5 +7985,16 @@
     "city": "Pekalongan",
     "latitude": -6.8898362,
     "longitude": 109.6745916
+  },
+  "103.132.52.114": {
+    "date": "07/07/2025",
+    "time": "16:03:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Buaran",
+    "latitude": -7.2227285,
+    "longitude": 108.9175387
   }
 }
