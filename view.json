@@ -1,5 +1,5 @@
 {
-  "view": 724,
+  "view": 725,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7963,5 +7963,16 @@
     "city": "Mungkid",
     "latitude": -7.5540978,
     "longitude": 110.2540912
+  },
+  "103.162.221.39": {
+    "date": "07/07/2025",
+    "time": "15:59:10",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Madiun",
+    "latitude": -7.6310587,
+    "longitude": 111.5300159
   }
 }
