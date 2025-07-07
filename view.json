@@ -1,5 +1,5 @@
 {
-  "view": 720,
+  "view": 721,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -7919,5 +7919,16 @@
     "city": "Gorontalo",
     "latitude": 0.5435442,
     "longitude": 123.0567693
+  },
+  "160.19.18.27": {
+    "date": "07/07/2025",
+    "time": "07:05:51",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Baturaden",
+    "latitude": -7.3045305,
+    "longitude": 109.2236831
   }
 }
