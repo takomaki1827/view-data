@@ -1,5 +1,5 @@
 {
-  "view": 754,
+  "view": 755,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8293,5 +8293,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "182.3.140.141": {
+    "date": "09/07/2025",
+    "time": "01:34:48",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Kalimantan",
+    "city": "Raya River",
+    "latitude": 0.6999,
+    "longitude": 108.90003
   }
 }
