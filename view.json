@@ -1,5 +1,5 @@
 {
-  "view": 752,
+  "view": 753,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8271,5 +8271,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "34.23.139.44": {
+    "date": "08/07/2025",
+    "time": "21:23:29",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "South Carolina",
+    "city": "North Charleston",
+    "latitude": 32.8546197,
+    "longitude": -79.9748103
   }
 }
