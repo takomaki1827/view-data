@@ -1,5 +1,5 @@
 {
-  "view": 751,
+  "view": 752,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8260,5 +8260,16 @@
     "city": "Jatibarang",
     "latitude": -6.4749823,
     "longitude": 108.3067382
+  },
+  "66.249.71.201": {
+    "date": "08/07/2025",
+    "time": "19:52:43",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
