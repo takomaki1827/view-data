@@ -1,5 +1,5 @@
 {
-  "view": 750,
+  "view": 751,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8249,5 +8249,16 @@
     "city": "Duri",
     "latitude": 1.259619,
     "longitude": 101.213097
+  },
+  "180.245.232.96": {
+    "date": "08/07/2025",
+    "time": "19:06:53",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Jatibarang",
+    "latitude": -6.4749823,
+    "longitude": 108.3067382
   }
 }
