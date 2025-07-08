@@ -1,5 +1,5 @@
 {
-  "view": 753,
+  "view": 754,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8282,5 +8282,16 @@
     "city": "North Charleston",
     "latitude": 32.8546197,
     "longitude": -79.9748103
+  },
+  "103.73.75.98": {
+    "date": "08/07/2025",
+    "time": "21:34:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
