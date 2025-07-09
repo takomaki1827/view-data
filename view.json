@@ -1,5 +1,5 @@
 {
-  "view": 760,
+  "view": 761,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8359,5 +8359,16 @@
     "city": "Sungguminasa",
     "latitude": -5.2065622,
     "longitude": 119.451303
+  },
+  "180.241.158.86": {
+    "date": "10/07/2025",
+    "time": "00:53:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
