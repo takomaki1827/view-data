@@ -1,5 +1,5 @@
 {
-  "view": 759,
+  "view": 760,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8348,5 +8348,16 @@
     "city": "Panjer",
     "latitude": -7.6809346,
     "longitude": 109.6605375
+  },
+  "114.10.135.158": {
+    "date": "09/07/2025",
+    "time": "21:01:17",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sulawesi",
+    "city": "Sungguminasa",
+    "latitude": -5.2065622,
+    "longitude": 119.451303
   }
 }
