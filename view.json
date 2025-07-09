@@ -1,5 +1,5 @@
 {
-  "view": 758,
+  "view": 759,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8337,5 +8337,16 @@
     "city": "Blitar",
     "latitude": -8.0954627,
     "longitude": 112.1609056
+  },
+  "160.191.130.225": {
+    "date": "09/07/2025",
+    "time": "14:54:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Panjer",
+    "latitude": -7.6809346,
+    "longitude": 109.6605375
   }
 }
