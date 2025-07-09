@@ -1,5 +1,5 @@
 {
-  "view": 763,
+  "view": 764,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8392,5 +8392,16 @@
     "city": "Surabaya",
     "latitude": -7.2574719,
     "longitude": 112.7520883
+  },
+  "114.125.76.158": {
+    "date": "10/07/2025",
+    "time": "05:35:50",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Sendangadi",
+    "latitude": -7.7333383,
+    "longitude": 110.3668374
   }
 }
