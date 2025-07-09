@@ -1,5 +1,5 @@
 {
-  "view": 755,
+  "view": 756,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8304,5 +8304,16 @@
     "city": "Raya River",
     "latitude": 0.6999,
     "longitude": 108.90003
+  },
+  "180.245.29.224": {
+    "date": "09/07/2025",
+    "time": "09:43:36",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
