@@ -1,5 +1,5 @@
 {
-  "view": 765,
+  "view": 766,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8414,5 +8414,16 @@
     "city": "Boyolali",
     "latitude": -7.52053,
     "longitude": 110.595023
+  },
+  "205.169.39.12": {
+    "date": "10/07/2025",
+    "time": "12:08:16",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Texas",
+    "city": "Dallas",
+    "latitude": 32.7766642,
+    "longitude": -96.7969879
   }
 }
