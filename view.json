@@ -1,5 +1,5 @@
 {
-  "view": 773,
+  "view": 774,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8502,5 +8502,16 @@
     "city": "Baturaja",
     "latitude": -5.0402647,
     "longitude": 103.8390162
+  },
+  "125.164.10.78": {
+    "date": "11/07/2025",
+    "time": "20:29:27",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Pamekasan Regency",
+    "latitude": -7.1050857,
+    "longitude": 113.5252319
   }
 }
