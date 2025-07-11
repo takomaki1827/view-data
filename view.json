@@ -1,5 +1,5 @@
 {
-  "view": 771,
+  "view": 772,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8480,5 +8480,16 @@
     "city": "Demak",
     "latitude": -6.8921607,
     "longitude": 110.6377502
+  },
+  "182.4.38.222": {
+    "date": "11/07/2025",
+    "time": "13:05:55",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Kalimantan",
+    "city": "Sampit",
+    "latitude": -2.5394654,
+    "longitude": 112.9586863
   }
 }
