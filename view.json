@@ -1,5 +1,5 @@
 {
-  "view": 774,
+  "view": 775,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8513,5 +8513,16 @@
     "city": "Pamekasan Regency",
     "latitude": -7.1050857,
     "longitude": 113.5252319
+  },
+  "125.164.17.214": {
+    "date": "12/07/2025",
+    "time": "11:42:23",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Lembang",
+    "latitude": -6.8172727,
+    "longitude": 107.6185727
   }
 }
