@@ -1,5 +1,5 @@
 {
-  "view": 780,
+  "view": 781,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8579,5 +8579,16 @@
     "city": "Depok",
     "latitude": -6.4024844,
     "longitude": 106.7942405
+  },
+  "114.125.236.12": {
+    "date": "13/07/2025",
+    "time": "23:15:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Muara Enim Regency",
+    "latitude": -3.7114163,
+    "longitude": 104.0072348
   }
 }
