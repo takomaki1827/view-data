@@ -1,5 +1,5 @@
 {
-  "view": 785,
+  "view": 786,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8634,5 +8634,16 @@
     "city": "Serang",
     "latitude": -6.1103661,
     "longitude": 106.1639749
+  },
+  "104.196.230.214": {
+    "date": "14/07/2025",
+    "time": "23:14:59",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Oregon",
+    "city": "The Dalles",
+    "latitude": 45.5945645,
+    "longitude": -121.1786823
   }
 }
