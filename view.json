@@ -1,5 +1,5 @@
 {
-  "view": 793,
+  "view": 794,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8722,5 +8722,16 @@
     "city": "Kedaton",
     "latitude": -5.3718525,
     "longitude": 105.2604409
+  },
+  "140.213.11.146": {
+    "date": "17/07/2025",
+    "time": "12:39:47",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
