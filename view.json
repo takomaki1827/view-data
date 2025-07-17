@@ -1,5 +1,5 @@
 {
-  "view": 791,
+  "view": 792,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8700,5 +8700,16 @@
     "city": "Kedaton",
     "latitude": -5.3718525,
     "longitude": 105.2604409
+  },
+  "74.125.212.39": {
+    "date": "17/07/2025",
+    "time": "11:49:38",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
