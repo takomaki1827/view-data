@@ -1,5 +1,5 @@
 {
-  "view": 798,
+  "view": 799,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8777,5 +8777,16 @@
     "city": "Sinjai Regency",
     "latitude": -5.2171961,
     "longitude": 120.112735
+  },
+  "114.10.103.218": {
+    "date": "17/07/2025",
+    "time": "15:32:47",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kalianda",
+    "latitude": -5.735945,
+    "longitude": 105.593597
   }
 }
