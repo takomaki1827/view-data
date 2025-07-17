@@ -1,5 +1,5 @@
 {
-  "view": 790,
+  "view": 791,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8689,5 +8689,16 @@
     "city": "Quissamã",
     "latitude": -22.1036086,
     "longitude": -41.4696532
+  },
+  "114.10.103.178": {
+    "date": "17/07/2025",
+    "time": "11:49:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Kedaton",
+    "latitude": -5.3718525,
+    "longitude": 105.2604409
   }
 }
