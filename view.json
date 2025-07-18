@@ -1,5 +1,5 @@
 {
-  "view": 802,
+  "view": 803,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8821,5 +8821,16 @@
     "city": "Pajaten",
     "latitude": -7.6594377,
     "longitude": 108.6086561
+  },
+  "114.10.142.147": {
+    "date": "18/07/2025",
+    "time": "21:49:45",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Kalimantan",
+    "city": "Amuntai",
+    "latitude": -2.416604,
+    "longitude": 115.239098
   }
 }
