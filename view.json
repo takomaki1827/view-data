@@ -1,5 +1,5 @@
 {
-  "view": 804,
+  "view": 805,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8843,5 +8843,16 @@
     "city": "Lampung",
     "latitude": -4.5585849,
     "longitude": 105.4068079
+  },
+  "114.10.101.193": {
+    "date": "19/07/2025",
+    "time": "08:04:18",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Bukit Kemuning",
+    "latitude": -4.9590869,
+    "longitude": 104.5422225
   }
 }
