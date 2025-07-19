@@ -1,5 +1,5 @@
 {
-  "view": 806,
+  "view": 807,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8865,5 +8865,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "125.165.132.234": {
+    "date": "19/07/2025",
+    "time": "15:14:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Pringsewu Regency",
+    "latitude": -5.3331186,
+    "longitude": 104.9856176
   }
 }
