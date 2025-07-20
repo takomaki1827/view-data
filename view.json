@@ -1,5 +1,5 @@
 {
-  "view": 808,
+  "view": 809,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8887,5 +8887,16 @@
     "city": "Sukabumi",
     "latitude": -6.9277361,
     "longitude": 106.9299579
+  },
+  "66.249.68.37": {
+    "date": "20/07/2025",
+    "time": "19:26:58",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
   }
 }
