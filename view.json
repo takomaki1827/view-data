@@ -1,5 +1,5 @@
 {
-  "view": 807,
+  "view": 808,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8876,5 +8876,16 @@
     "city": "Pringsewu Regency",
     "latitude": -5.3331186,
     "longitude": 104.9856176
+  },
+  "125.164.25.28": {
+    "date": "20/07/2025",
+    "time": "11:26:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Sukabumi",
+    "latitude": -6.9277361,
+    "longitude": 106.9299579
   }
 }
