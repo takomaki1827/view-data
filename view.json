@@ -1,5 +1,5 @@
 {
-  "view": 814,
+  "view": 815,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8953,5 +8953,16 @@
     "city": "Semarang",
     "latitude": -7.0051453,
     "longitude": 110.4381254
+  },
+  "103.210.35.56": {
+    "date": "22/07/2025",
+    "time": "07:40:31",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Region of Yogyakarta",
+    "city": "Bantul",
+    "latitude": -7.8748176,
+    "longitude": 110.3255365
   }
 }
