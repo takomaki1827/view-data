@@ -1,5 +1,5 @@
 {
-  "view": 819,
+  "view": 820,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9008,5 +9008,16 @@
     "city": "Pontianak",
     "latitude": -0.0263303,
     "longitude": 109.3425039
+  },
+  "140.213.21.134": {
+    "date": "23/07/2025",
+    "time": "23:29:09",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Komplek Bandung City View 1",
+    "latitude": -6.8984856,
+    "longitude": 107.6750792
   }
 }
