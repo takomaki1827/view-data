@@ -1,5 +1,5 @@
 {
-  "view": 818,
+  "view": 819,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8997,5 +8997,16 @@
     "city": "Samarinda",
     "latitude": -0.4948232,
     "longitude": 117.1436154
+  },
+  "110.139.106.209": {
+    "date": "23/07/2025",
+    "time": "21:19:52",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Kalimantan",
+    "city": "Pontianak",
+    "latitude": -0.0263303,
+    "longitude": 109.3425039
   }
 }
