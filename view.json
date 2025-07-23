@@ -1,5 +1,5 @@
 {
-  "view": 817,
+  "view": 818,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -8986,5 +8986,16 @@
     "city": "Bekasi",
     "latitude": -6.2474466,
     "longitude": 107.1484521
+  },
+  "103.111.136.94": {
+    "date": "23/07/2025",
+    "time": "19:03:25",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Kalimantan",
+    "city": "Samarinda",
+    "latitude": -0.4948232,
+    "longitude": 117.1436154
   }
 }
