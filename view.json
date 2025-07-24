@@ -1,5 +1,5 @@
 {
-  "view": 822,
+  "view": 823,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9041,5 +9041,16 @@
     "city": "Padang",
     "latitude": -0.9470832,
     "longitude": 100.417181
+  },
+  "180.253.76.150": {
+    "date": "24/07/2025",
+    "time": "19:14:21",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Wedarijaksa",
+    "latitude": -6.6921126,
+    "longitude": 111.0694057
   }
 }
