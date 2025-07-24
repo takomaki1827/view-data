@@ -1,5 +1,5 @@
 {
-  "view": 820,
+  "view": 821,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9019,5 +9019,16 @@
     "city": "Komplek Bandung City View 1",
     "latitude": -6.8984856,
     "longitude": 107.6750792
+  },
+  "140.213.29.0": {
+    "date": "24/07/2025",
+    "time": "17:08:42",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "North Sumatra",
+    "city": "Medan",
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   }
 }
