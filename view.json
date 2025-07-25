@@ -1,5 +1,5 @@
 {
-  "view": 824,
+  "view": 825,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9063,5 +9063,16 @@
     "city": "Pamanukan",
     "latitude": -6.2957395,
     "longitude": 107.8228459
+  },
+  "125.164.18.207": {
+    "date": "25/07/2025",
+    "time": "13:04:22",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cileunyi",
+    "latitude": -6.9316588,
+    "longitude": 107.7419708
   }
 }
