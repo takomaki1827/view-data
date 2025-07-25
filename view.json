@@ -1,5 +1,5 @@
 {
-  "view": 825,
+  "view": 826,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9074,5 +9074,16 @@
     "city": "Cileunyi",
     "latitude": -6.9316588,
     "longitude": 107.7419708
+  },
+  "36.77.70.121": {
+    "date": "25/07/2025",
+    "time": "13:38:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Muara Enim Regency",
+    "latitude": -3.7114163,
+    "longitude": 104.0072348
   }
 }
