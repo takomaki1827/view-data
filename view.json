@@ -1,5 +1,5 @@
 {
-  "view": 835,
+  "view": 836,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9184,5 +9184,16 @@
     "city": "Sungai Gerong",
     "latitude": -2.9505021,
     "longitude": 104.8746508
+  },
+  "140.213.218.54": {
+    "date": "29/07/2025",
+    "time": "21:35:24",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Riau",
+    "city": "Pekanbaru",
+    "latitude": 0.5070677,
+    "longitude": 101.4477793
   }
 }
