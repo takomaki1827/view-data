@@ -1,5 +1,5 @@
 {
-  "view": 834,
+  "view": 835,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9173,5 +9173,16 @@
     "city": "Kemantren",
     "latitude": -7.4482372,
     "longitude": 112.4142453
+  },
+  "125.167.50.204": {
+    "date": "29/07/2025",
+    "time": "21:32:25",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "South Sumatra",
+    "city": "Sungai Gerong",
+    "latitude": -2.9505021,
+    "longitude": 104.8746508
   }
 }
