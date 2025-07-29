@@ -1,5 +1,5 @@
 {
-  "view": 833,
+  "view": 834,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9162,5 +9162,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "112.215.153.172": {
+    "date": "29/07/2025",
+    "time": "15:20:12",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Kemantren",
+    "latitude": -7.4482372,
+    "longitude": 112.4142453
   }
 }
