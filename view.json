@@ -1,5 +1,5 @@
 {
-  "view": 843,
+  "view": 844,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9265,6 +9265,17 @@
   "66.249.68.36": {
     "date": "04/08/2025",
     "time": "06:15:04",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "Mountain View",
+    "latitude": 37.3860517,
+    "longitude": -122.0838511
+  },
+  "66.249.68.34": {
+    "date": "04/08/2025",
+    "time": "09:28:29",
     "country": "United States",
     "country_code": "US",
     "emoji": "🇺🇸",
