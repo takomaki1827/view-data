@@ -1,5 +1,5 @@
 {
-  "view": 846,
+  "view": 847,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9305,5 +9305,16 @@
     "city": "Mountain View",
     "latitude": 37.3860517,
     "longitude": -122.0838511
+  },
+  "124.158.184.191": {
+    "date": "04/08/2025",
+    "time": "19:13:08",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Jawa Barat",
+    "city": "Cibinong",
+    "latitude": -6.4901067,
+    "longitude": 106.8306951
   }
 }
