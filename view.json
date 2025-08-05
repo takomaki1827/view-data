@@ -1,5 +1,5 @@
 {
-  "view": 847,
+  "view": 848,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9316,5 +9316,16 @@
     "city": "Cibinong",
     "latitude": -6.4901067,
     "longitude": 106.8306951
+  },
+  "180.245.30.159": {
+    "date": "05/08/2025",
+    "time": "17:03:19",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Special Capital Region of Jakarta",
+    "city": "West Jakarta City",
+    "latitude": -6.1683295,
+    "longitude": 106.7588494
   }
 }
