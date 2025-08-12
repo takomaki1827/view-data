@@ -1,5 +1,5 @@
 {
-  "view": 857,
+  "view": 858,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9426,5 +9426,16 @@
     "city": "Babana",
     "latitude": -2.1040056,
     "longitude": 119.2437011
+  },
+  "103.139.99.198": {
+    "date": "12/08/2025",
+    "time": "20:05:17",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Lampung",
+    "city": "Jabung",
+    "latitude": -5.4969516,
+    "longitude": 105.7116464
   }
 }
