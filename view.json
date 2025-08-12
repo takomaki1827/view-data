@@ -1,5 +1,5 @@
 {
-  "view": 856,
+  "view": 857,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9415,5 +9415,16 @@
     "city": "West Jakarta City",
     "latitude": -6.1683295,
     "longitude": 106.7588494
+  },
+  "103.161.117.114": {
+    "date": "12/08/2025",
+    "time": "11:22:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "West Sulawesi",
+    "city": "Babana",
+    "latitude": -2.1040056,
+    "longitude": 119.2437011
   }
 }
