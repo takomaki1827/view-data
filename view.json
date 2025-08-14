@@ -1,5 +1,5 @@
 {
-  "view": 860,
+  "view": 861,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9459,5 +9459,16 @@
     "city": "Magetan",
     "latitude": -7.6493413,
     "longitude": 111.3381593
+  },
+  "203.78.113.46": {
+    "date": "14/08/2025",
+    "time": "14:19:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "East Java",
+    "city": "Surabaya",
+    "latitude": -7.2574719,
+    "longitude": 112.7520883
   }
 }
