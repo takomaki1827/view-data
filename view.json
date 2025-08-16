@@ -1,5 +1,5 @@
 {
-  "view": 870,
+  "view": 871,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9569,5 +9569,16 @@
     "city": "Pekanbaru",
     "latitude": 0.5070677,
     "longitude": 101.4477793
+  },
+  "114.10.150.173": {
+    "date": "16/08/2025",
+    "time": "19:30:26",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "emoji": "🇮🇩",
+    "region": "Central Java",
+    "city": "Karanganyar",
+    "latitude": -7.6070727,
+    "longitude": 110.9866942
   }
 }
