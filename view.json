@@ -1,5 +1,5 @@
 {
-  "view": 871,
+  "view": 872,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9580,5 +9580,16 @@
     "city": "Karanganyar",
     "latitude": -7.6070727,
     "longitude": 110.9866942
+  },
+  "2.56.72.55": {
+    "date": "18/10/2025",
+    "time": "11:11:45",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Wyoming",
+    "city": "Cheyenne",
+    "latitude": 41.1399814,
+    "longitude": -104.8202462
   }
 }
