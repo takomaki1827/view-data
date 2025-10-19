@@ -1,5 +1,5 @@
 {
-  "view": 872,
+  "view": 873,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9591,5 +9591,16 @@
     "city": "Cheyenne",
     "latitude": 41.1399814,
     "longitude": -104.8202462
+  },
+  "206.41.176.107": {
+    "date": "19/10/2025",
+    "time": "13:21:59",
+    "country": "Canada",
+    "country_code": "CA",
+    "emoji": "🇨🇦",
+    "region": "Ontario",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
   }
 }
