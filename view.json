@@ -1,5 +1,5 @@
 {
-  "view": 873,
+  "view": 874,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9602,5 +9602,16 @@
     "city": "Toronto",
     "latitude": 43.653226,
     "longitude": -79.3831843
+  },
+  "23.27.145.15": {
+    "date": "24/12/2025",
+    "time": "07:35:12",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "San Jose",
+    "latitude": 37.3382082,
+    "longitude": -121.8863286
   }
 }
