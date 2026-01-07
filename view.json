@@ -1,5 +1,5 @@
 {
-  "view": 874,
+  "view": 875,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9613,5 +9613,16 @@
     "city": "San Jose",
     "latitude": 37.3382082,
     "longitude": -121.8863286
+  },
+  "149.57.180.4": {
+    "date": "07/01/2026",
+    "time": "11:48:08",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Florida",
+    "city": "Boca Raton",
+    "latitude": 26.3683064,
+    "longitude": -80.1289321
   }
 }
