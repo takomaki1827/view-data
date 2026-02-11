@@ -1,5 +1,5 @@
 {
-  "view": 877,
+  "view": 878,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9646,5 +9646,16 @@
     "city": "Ashburn",
     "latitude": 39.0437567,
     "longitude": -77.4874416
+  },
+  "217.194.130.222": {
+    "date": "11/02/2026",
+    "time": "07:23:32",
+    "country": "Canada",
+    "country_code": "CA",
+    "emoji": "🇨🇦",
+    "region": "Ontario",
+    "city": "Toronto",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
   }
 }
