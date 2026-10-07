@@ -1,5 +1,5 @@
 {
-  "view": 879,
+  "view": 880,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9668,5 +9668,16 @@
     "city": "Kane",
     "latitude": 41.2615195,
     "longitude": -95.8304271
+  },
+  "205.169.39.57": {
+    "date": "08/10/2026",
+    "time": "01:40:30",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "California",
+    "city": "San Jose",
+    "latitude": 37.3393947,
+    "longitude": -121.8949575
   }
 }
