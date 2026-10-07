@@ -1,5 +1,5 @@
 {
-  "view": 878,
+  "view": 879,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9657,5 +9657,16 @@
     "city": "Toronto",
     "latitude": 43.653226,
     "longitude": -79.3831843
+  },
+  "34.122.147.229": {
+    "date": "08/10/2026",
+    "time": "01:14:28",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Iowa",
+    "city": "Kane",
+    "latitude": 41.2615195,
+    "longitude": -95.8304271
   }
 }
