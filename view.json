@@ -1,5 +1,5 @@
 {
-  "view": 889,
+  "view": 890,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9778,5 +9778,16 @@
     "city": "Atlanta",
     "latitude": 33.7485894,
     "longitude": -84.3879752
+  },
+  "18.215.145.89": {
+    "date": "08/10/2026",
+    "time": "23:40:44",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "District of Columbia",
+    "city": "Washington",
+    "latitude": 38.8951121,
+    "longitude": -77.0363706
   }
 }
