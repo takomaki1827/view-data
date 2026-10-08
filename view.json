@@ -1,5 +1,5 @@
 {
-  "view": 881,
+  "view": 882,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9690,5 +9690,16 @@
     "city": "San Jose",
     "latitude": 37.3393947,
     "longitude": -121.8949575
+  },
+  "79.142.77.207": {
+    "date": "08/10/2026",
+    "time": "22:30:11",
+    "country": "Sweden",
+    "country_code": "SE",
+    "emoji": "🇸🇪",
+    "region": "Stockholm County",
+    "city": "Stockholm",
+    "latitude": 59.329381,
+    "longitude": 18.0687079
   }
 }
