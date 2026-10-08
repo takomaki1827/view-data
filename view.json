@@ -1,5 +1,5 @@
 {
-  "view": 887,
+  "view": 888,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9756,5 +9756,16 @@
     "city": "London",
     "latitude": 51.5085327,
     "longitude": -0.1257364
+  },
+  "24.150.40.117": {
+    "date": "08/10/2026",
+    "time": "23:09:35",
+    "country": "Canada",
+    "country_code": "CA",
+    "emoji": "🇨🇦",
+    "region": "Ontario",
+    "city": "Burlington",
+    "latitude": 43.3862139,
+    "longitude": -79.8371257
   }
 }
