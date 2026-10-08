@@ -1,5 +1,5 @@
 {
-  "view": 885,
+  "view": 886,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9727,6 +9727,17 @@
   "89.248.171.24": {
     "date": "08/10/2026",
     "time": "22:33:53",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "emoji": "🇳🇱",
+    "region": "Provincie Noord-Holland",
+    "city": "Amsterdam",
+    "latitude": 52.374028,
+    "longitude": 4.8896881
+  },
+  "24.144.77.78": {
+    "date": "08/10/2026",
+    "time": "22:50:30",
     "country": "Netherlands",
     "country_code": "NL",
     "emoji": "🇳🇱",
