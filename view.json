@@ -1,5 +1,5 @@
 {
-  "view": 884,
+  "view": 885,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9723,5 +9723,16 @@
     "city": "Vaduz",
     "latitude": 47.1415106,
     "longitude": 9.5215379
+  },
+  "89.248.171.24": {
+    "date": "08/10/2026",
+    "time": "22:33:53",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "emoji": "🇳🇱",
+    "region": "Provincie Noord-Holland",
+    "city": "Amsterdam",
+    "latitude": 52.374028,
+    "longitude": 4.8896881
   }
 }
