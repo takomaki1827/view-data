@@ -1,5 +1,5 @@
 {
-  "view": 888,
+  "view": 889,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9767,5 +9767,16 @@
     "city": "Burlington",
     "latitude": 43.3862139,
     "longitude": -79.8371257
+  },
+  "193.56.116.31": {
+    "date": "08/10/2026",
+    "time": "23:37:19",
+    "country": "United States",
+    "country_code": "US",
+    "emoji": "🇺🇸",
+    "region": "Georgia",
+    "city": "Atlanta",
+    "latitude": 33.7485894,
+    "longitude": -84.3879752
   }
 }
