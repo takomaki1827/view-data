@@ -1,5 +1,5 @@
 {
-  "view": 895,
+  "view": 896,
   "180.245.29.23": {
     "date": "21/05/2025",
     "time": "13:05:41",
@@ -9844,5 +9844,16 @@
     "city": "San Jose",
     "latitude": 37.3393854,
     "longitude": -121.894959
+  },
+  "94.102.49.128": {
+    "date": "09/10/2026",
+    "time": "17:49:15",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "emoji": "🇳🇱",
+    "region": "Provincie Noord-Holland",
+    "city": "Amsterdam",
+    "latitude": 52.374028,
+    "longitude": 4.8896881
   }
 }
